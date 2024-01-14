@@ -1,0 +1,99 @@
+{
+    "IMONTH5": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December"
+    },
+    "IYEAR5": {
+        ".": "missing",
+        "2016": "2016",
+        "2017": "2017",
+        "2018": "2018",
+        "2019": "2019"
+    },
+    "MODULES": {
+        "A": "Module A only completed",
+        "A/B": "Modules A and B completed"
+    },
+    "MODE": {
+        "I": "in-person",
+        "M": "mail",
+        "S": "split mail & web",
+        "T": "telephone",
+        "W": "web"
+    },
+    "SAMPLE": {
+        "1": "Sample 1",
+        "1/ NRFU": "Sample 1  Non-Response Follow-Up",
+        "2A": "Sample 2a",
+        "2A/ NRFU": "Sample 2a Non-Response Follow-Up",
+        "2B": "Sample 2b",
+        "3": "Sample 3",
+        "3/ NRFU": "Sample 3  Non-Response Follow-Up",
+        "PILOT": "Pilot Sample",
+        "PILOT/ NRFU": "Pilot Sample Non-Response Follow-Up"
+    },
+    "PLATFORM": {
+        ".": "missing",
+        "1": "PC",
+        "2": "Smartphone",
+        "3": "Tablet",
+        "4": "ebook reader",
+        "5": "Mobile",
+        "6": "Game Console",
+        "7": "other (music player, TV)",
+        "95": "not measured"
+    },
+    "W5REGION": {
+        ".": "missing",
+        "1": "West",
+        "2": "Midwest",
+        "3": "Northeast",
+        "4": "South",
+        "98": "International",
+        "99": "No location"
+    },
+    "H5OD1M": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December"
+    },
+    "H5OD1Y": {
+        ".": "missing",
+        "1974": "1974",
+        "1975": "1975",
+        "1976": "1976",
+        "1977": "1977",
+        "1978": "1978",
+        "1979": "1979",
+        "1980": "1980",
+        "1981": "1981",
+        "1982": "1982",
+        "1983": "1983"
+    },
+    "H5OD2A": {
+        ".": "missing",
+        "1": "male",
+        "2": "female"
+    }
+}

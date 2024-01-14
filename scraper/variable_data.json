@@ -1,0 +1,6839 @@
+{
+    "IMONTH5": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December"
+    },
+    "IYEAR5": {
+        ".": "missing",
+        "2016": "2016",
+        "2017": "2017",
+        "2018": "2018",
+        "2019": "2019"
+    },
+    "MODULES": {
+        "A": "Module A only completed",
+        "A/B": "Modules A and B completed"
+    },
+    "MODE": {
+        "I": "in-person",
+        "M": "mail",
+        "S": "split mail & web",
+        "T": "telephone",
+        "W": "web"
+    },
+    "SAMPLE": {
+        "1": "Sample 1",
+        "1/ NRFU": "Sample 1  Non-Response Follow-Up",
+        "2A": "Sample 2a",
+        "2A/ NRFU": "Sample 2a Non-Response Follow-Up",
+        "2B": "Sample 2b",
+        "3": "Sample 3",
+        "3/ NRFU": "Sample 3  Non-Response Follow-Up",
+        "PILOT": "Pilot Sample",
+        "PILOT/ NRFU": "Pilot Sample Non-Response Follow-Up"
+    },
+    "PLATFORM": {
+        ".": "missing",
+        "1": "PC",
+        "2": "Smartphone",
+        "3": "Tablet",
+        "4": "ebook reader",
+        "5": "Mobile",
+        "6": "Game Console",
+        "7": "other (music player, TV)",
+        "95": "not measured"
+    },
+    "W5REGION": {
+        ".": "missing",
+        "1": "West",
+        "2": "Midwest",
+        "3": "Northeast",
+        "4": "South",
+        "98": "International",
+        "99": "No location"
+    },
+    "H5OD1M": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December"
+    },
+    "H5OD1Y": {
+        ".": "missing",
+        "1974": "1974",
+        "1975": "1975",
+        "1976": "1976",
+        "1977": "1977",
+        "1978": "1978",
+        "1979": "1979",
+        "1980": "1980",
+        "1981": "1981",
+        "1982": "1982",
+        "1983": "1983"
+    },
+    "H5OD2A": {
+        ".": "missing",
+        "1": "male",
+        "2": "female"
+    },
+    "H5OD2B": {
+        ".": "missing",
+        "1": "male",
+        "2": "female",
+        "92": "missing/suppressed"
+    },
+    "H5OD3": {
+        ".": "missing",
+        "1": "very feminine",
+        "2": "mostly feminine",
+        "3": "somewhat feminine",
+        "4": "equally feminine and masculine",
+        "5": "somewhat masculine",
+        "6": "mostly masculine",
+        "7": "very masculine"
+    },
+    "H5OD4A": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked"
+    },
+    "H5OD4B": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked"
+    },
+    "H5OD4C": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked"
+    },
+    "H5OD4D": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked"
+    },
+    "H5OD4E": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked"
+    },
+    "H5OD4F": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked"
+    },
+    "H5OD4G": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked"
+    },
+    "H5OD5A": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD5B": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD5C": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD5D": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD5E": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD5F": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD6A": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD6B": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD6C": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD6D": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD6E": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD6F": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD6G": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD7A": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD7B": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD7C": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD7D": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5OD8": {
+        "997": "legitimate skip",
+        "1": "White",
+        "2": "Black, African American",
+        "4": "Hispanic: Mexican, Mexican American, Chicano",
+        "6": "Hispanic: Cuban",
+        "11": "Asian: Filipino",
+        "5": "Hispanic: Puerto Rican",
+        "7": "Other Hispanic, Latino, or Spanish origin",
+        ".": "missing",
+        "21": "American Indian or Alaska Native",
+        "10": "Asian: Chinese",
+        "22": "Some other race or origin",
+        "12": "Asian: Japanese",
+        "17": "Pacific Islander: Native Hawaiian",
+        "20": "Other Pacific Islander",
+        "15": "Other Asian",
+        "13": "Asian: Korean",
+        "18": "Pacific Islander: Samoan",
+        "3": "Hispanic",
+        "14": "Asian: Vietnamese",
+        "9": "Asian: Indian"
+    },
+    "H5OD9": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone"
+    },
+    "H5OD10": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5OD11": {
+        ".": "missing",
+        "1": "8th grade or less",
+        "2": "some high school",
+        "3": "high school diploma",
+        "4": "GED",
+        "5": "some vocational/technical training (after high school)",
+        "6": "some community college",
+        "7": "completed vocational/technical training (after high school)",
+        "8": "associate or junior college degree",
+        "9": "some college",
+        "10": "completed college (bachelor's degree)",
+        "11": "some graduate school",
+        "12": "completed a master's degree",
+        "13": "some graduate training beyond a master's degree",
+        "14": "completed a doctoral degree",
+        "15": "some post baccalaureate professional education (such as law school, medical school, nursing)",
+        "16": "completed a post baccalaureate professional degree (such as law, medicine, nursing)"
+    },
+    "H5HR1": {
+        ".": "missing",
+        "1": "married",
+        "2": "widowed",
+        "3": "divorced",
+        "4": "separated",
+        "5": "never married"
+    },
+    "H5HR2": {
+        ".": "missing",
+        "1": "your own place (e.g., apartment, house, trailer)",
+        "2": "your parents' home",
+        "3": "another person's home",
+        "4": "group quarters (e.g., dormitory, barracks, group home, hospital, communal home)",
+        "5": "homeless - that is, you have no regular place to stay",
+        "6": "other"
+    },
+    "H5HR3": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR4A": {
+        ".": "missing",
+        "1": "male",
+        "2": "female",
+        "97": "legitimate skip"
+    },
+    "H5HR4B": {
+        ".": "missing",
+        "1": "male",
+        "2": "female",
+        "97": "legitimate skip"
+    },
+    "H5HR4C": {
+        ".": "missing",
+        "1": "male",
+        "2": "female",
+        "97": "legitimate skip"
+    },
+    "H5HR4D": {
+        ".": "missing",
+        "1": "male",
+        "2": "female",
+        "97": "legitimate skip"
+    },
+    "H5HR4E": {
+        ".": "missing",
+        "1": "male",
+        "2": "female",
+        "97": "legitimate skip"
+    },
+    "H5HR4F": {
+        ".": "missing",
+        "1": "male",
+        "2": "female",
+        "97": "legitimate skip"
+    },
+    "H5HR4G": {
+        ".": "missing",
+        "1": "male",
+        "2": "female",
+        "97": "legitimate skip"
+    },
+    "H5HR4H": {
+        ".": "missing",
+        "1": "male",
+        "2": "female",
+        "97": "legitimate skip"
+    },
+    "H5HR4I": {
+        ".": "missing",
+        "1": "male",
+        "2": "female",
+        "97": "legitimate skip"
+    },
+    "H5HR4J": {
+        ".": "missing",
+        "1": "male",
+        "2": "female",
+        "97": "legitimate skip"
+    },
+    "H5HR4K": {
+        ".": "missing",
+        "1": "male",
+        "2": "female",
+        "97": "legitimate skip"
+    },
+    "H5HR4L": {
+        ".": "missing",
+        "1": "male",
+        "2": "female",
+        "97": "legitimate skip"
+    },
+    "H5HR4M": {
+        ".": "missing",
+        "1": "male",
+        "97": "legitimate skip"
+    },
+    "H5HR4N": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5HR4O": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5HR5A": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR5B": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR5C": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR5D": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR5E": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR5F": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR5G": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR5H": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR5I": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR5J": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR5K": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR5L": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR5M": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR5N": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR5O": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5HR6A": {
+        ".": "missing",
+        "1": "husband/wife",
+        "2": "partner/boyfriend/girlfriend",
+        "3": "biological son/daughter",
+        "4": "step son/daughter",
+        "5": "adopted son/daughter",
+        "6": "brother/sister",
+        "7": "father/mother",
+        "8": "father-in-law/mother-in-law",
+        "9": "grandfather/grandmother",
+        "10": "uncle/aunt",
+        "11": "cousin",
+        "12": "nephew/niece",
+        "13": "other relative",
+        "14": "non-relative",
+        "997": "legitimate skip"
+    },
+    "H5HR6B": {
+        ".": "missing",
+        "1": "husband/wife",
+        "2": "partner/boyfriend/girlfriend",
+        "3": "biological son/daughter",
+        "4": "step son/daughter",
+        "5": "adopted son/daughter",
+        "6": "brother/sister",
+        "7": "father/mother",
+        "8": "father-in-law/mother-in-law",
+        "9": "grandfather/grandmother",
+        "10": "uncle/aunt",
+        "11": "cousin",
+        "12": "nephew/niece",
+        "13": "other relative",
+        "14": "non-relative",
+        "997": "legitimate skip"
+    },
+    "H5HR6C": {
+        ".": "missing",
+        "1": "husband/wife",
+        "2": "partner/boyfriend/girlfriend",
+        "3": "biological son/daughter",
+        "4": "step son/daughter",
+        "5": "adopted son/daughter",
+        "6": "brother/sister",
+        "7": "father/mother",
+        "8": "father-in-law/mother-in-law",
+        "9": "grandfather/grandmother",
+        "10": "uncle/aunt",
+        "11": "cousin",
+        "12": "nephew/niece",
+        "13": "other relative",
+        "14": "non-relative",
+        "997": "legitimate skip"
+    },
+    "H5HR6D": {
+        ".": "missing",
+        "1": "husband/wife",
+        "2": "partner/boyfriend/girlfriend",
+        "3": "biological son/daughter",
+        "4": "step son/daughter",
+        "5": "adopted son/daughter",
+        "6": "brother/sister",
+        "7": "father/mother",
+        "8": "father-in-law/mother-in-law",
+        "9": "grandfather/grandmother",
+        "10": "uncle/aunt",
+        "11": "cousin",
+        "12": "nephew/niece",
+        "13": "other relative",
+        "14": "non-relative",
+        "997": "legitimate skip"
+    },
+    "H5HR6E": {
+        ".": "missing",
+        "1": "husband/wife",
+        "2": "partner/boyfriend/girlfriend",
+        "3": "biological son/daughter",
+        "4": "step son/daughter",
+        "5": "adopted son/daughter",
+        "6": "brother/sister",
+        "7": "father/mother",
+        "8": "father-in-law/mother-in-law",
+        "9": "grandfather/grandmother",
+        "10": "uncle/aunt",
+        "11": "cousin",
+        "12": "nephew/niece",
+        "13": "other relative",
+        "14": "non-relative",
+        "997": "legitimate skip"
+    },
+    "H5HR6F": {
+        ".": "missing",
+        "1": "husband/wife",
+        "2": "partner/boyfriend/girlfriend",
+        "3": "biological son/daughter",
+        "4": "step son/daughter",
+        "5": "adopted son/daughter",
+        "6": "brother/sister",
+        "7": "father/mother",
+        "8": "father-in-law/mother-in-law",
+        "10": "uncle/aunt",
+        "11": "cousin",
+        "12": "nephew/niece",
+        "13": "other relative",
+        "14": "non-relative",
+        "997": "legitimate skip"
+    },
+    "H5HR6G": {
+        ".": "missing",
+        "1": "husband/wife",
+        "2": "partner/boyfriend/girlfriend",
+        "3": "biological son/daughter",
+        "4": "step son/daughter",
+        "5": "adopted son/daughter",
+        "6": "brother/sister",
+        "7": "father/mother",
+        "8": "father-in-law/mother-in-law",
+        "11": "cousin",
+        "12": "nephew/niece",
+        "13": "other relative",
+        "14": "non-relative",
+        "997": "legitimate skip"
+    },
+    "H5HR6H": {
+        ".": "missing",
+        "1": "husband/wife",
+        "3": "biological son/daughter",
+        "4": "step son/daughter",
+        "5": "adopted son/daughter",
+        "6": "brother/sister",
+        "11": "cousin",
+        "12": "nephew/niece",
+        "13": "other relative",
+        "14": "non-relative",
+        "997": "legitimate skip"
+    },
+    "H5HR6I": {
+        ".": "missing",
+        "1": "husband/wife",
+        "3": "biological son/daughter",
+        "4": "step son/daughter",
+        "11": "cousin",
+        "12": "nephew/niece",
+        "13": "other relative",
+        "997": "legitimate skip"
+    },
+    "H5HR6J": {
+        ".": "missing",
+        "1": "husband/wife",
+        "3": "biological son/daughter",
+        "4": "step son/daughter",
+        "11": "cousin",
+        "12": "nephew/niece",
+        "13": "other relative",
+        "14": "non-relative",
+        "997": "legitimate skip"
+    },
+    "H5HR6K": {
+        ".": "missing",
+        "3": "biological son/daughter",
+        "4": "step son/daughter",
+        "12": "nephew/niece",
+        "13": "other relative",
+        "14": "non-relative",
+        "997": "legitimate skip"
+    },
+    "H5HR6L": {
+        ".": "missing",
+        "3": "biological son/daughter",
+        "12": "nephew/niece",
+        "997": "legitimate skip"
+    },
+    "H5HR6M": {
+        ".": "missing",
+        "1": "husband/wife",
+        "3": "biological son/daughter",
+        "997": "legitimate skip"
+    },
+    "H5HR6N": {
+        ".": "missing",
+        "7": "father/mother",
+        "997": "legitimate skip"
+    },
+    "H5HR6O": {
+        ".": "missing",
+        "3": "biological son/daughter",
+        "5": "adopted son/daughter",
+        "997": "legitimate skip"
+    },
+    "H5LM1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5LM2M": {
+        ".": "missing",
+        "0": "less than 1 month",
+        "1": "1 month",
+        "2": "2 months",
+        "3": "3 months",
+        "4": "4 months",
+        "5": "5 months",
+        "6": "6 months",
+        "7": "7 months",
+        "8": "8 months",
+        "9": "9 months",
+        "10": "10 months",
+        "11": "11 months",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5LM2Y": {
+        "997": "legitimate skip",
+        "4": "4 years",
+        "6": "6 years",
+        "8": "8 years",
+        "3": "3 years",
+        "2": "2 years",
+        "1": "1 year",
+        "0": "0 years",
+        "5": "5 years",
+        "9": "9 years",
+        "10": "10 years",
+        "7": "7 years",
+        "20": "20 years",
+        "14": "14 years",
+        "17": "17 years",
+        "18": "18 years",
+        "15": "15 years",
+        "19": "19 years",
+        "11": "11 year",
+        "16": "16 years",
+        "12": "12 years",
+        "998": "don't know",
+        "13": "13 years",
+        "21": "21 years",
+        ".": "missing",
+        "22": "22 years"
+    },
+    "H5LM3": {
+        ".": "missing",
+        "1": "currently serving",
+        "2": "previously served in the US",
+        "3": "previously served outside the US",
+        "4": "previously served both in the US and outside the US",
+        "97": "legitimate skip"
+    },
+    "H5LM4M": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5LM4Y": {
+        ".": "missing",
+        "1999": "1999 and before",
+        "2000": "2000",
+        "2001": "2001",
+        "2002": "2002",
+        "2003": "2003",
+        "2004": "2004",
+        "2005": "2005",
+        "2006": "2006",
+        "2007": "2007",
+        "2008": "2008",
+        "2009": "2009 and after",
+        "99997": "legitimate skip"
+    },
+    "H5LM5": {
+        ".": "missing",
+        "1": "yes",
+        "2": "no, but have worked for pay in the past",
+        "3": "no, have never worked for pay"
+    },
+    "H5LM6": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5LM7": {
+        ".": "missing",
+        "9997": "legitimate skip"
+    },
+    "H5LM8M": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5LM8Y": {
+        "99997": "legitimate skip",
+        "2016": "2016",
+        "2015": "2015",
+        "2017": "2017",
+        "2014": "2014",
+        "2013": "2013",
+        "2012": "2012",
+        "2011": "2011",
+        "2006": "2006",
+        "2007": "2007",
+        "2010": "2010",
+        "2008": "2008",
+        "2005": "2005",
+        "2004": "2004",
+        "2009": "2009",
+        "2003": "2003",
+        "2002": "2002",
+        "2000": "2000",
+        "2001": "2001",
+        "2018": "2018",
+        "1999": "1999",
+        "1998": "1998",
+        ".": "missing",
+        "1997": "1997",
+        "1996": "1996",
+        "1995": "1995",
+        "1994": "1994",
+        "1990": "1990"
+    },
+    "H5LM9": {
+        ".": "missing",
+        "1": "active duty military",
+        "2": "employee of private for-profit company or business or of an individual for wages, salary, or commissions",
+        "3": "employee of a private not-for-profit, tax-exempt, or charitable organization",
+        "4": "local government employee (e.g., city, county)",
+        "5": "state government employee",
+        "6": "federal government employee",
+        "7": "self-employed in own not incorporated business, professional practice, or farm",
+        "8": "self-employed in own incorporated business, professional practice, or farm",
+        "9": "work without pay in family business or farm",
+        "97": "legitimate skip"
+    },
+    "H5LM10": {
+        "": "missing",
+        "99997": "legitimate skip"
+    },
+    "H5LM11": {
+        ".": "missing",
+        "1": "manufacturing",
+        "2": "wholesale trade",
+        "3": "retail trade",
+        "4": "other (agriculture, construction, service, government, etc.)",
+        "97": "legitimate skip"
+    },
+    "H5LM12": {
+        "": "missing",
+        "99997": "legitimate skip"
+    },
+    "H5LM13A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5LM13B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5LM13C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5LM14": {
+        ".": "missing",
+        "1": "seated, for example, using a computer or driving",
+        "2": "standing, doing light physical work, for example, standing at a counter or desk, teaching, or working at a conveyor belt",
+        "3": "standing, doing moderate physical work, for example, nursing or being a mechanic",
+        "4": "standing, doing hard physical work, for example, doing construction work",
+        "97": "legitimate skip"
+    },
+    "H5LM15": {
+        ".": "missing",
+        "1": "none or almost none of the time",
+        "2": "some of the time",
+        "3": "most of the time",
+        "4": "all or almost all of the time",
+        "97": "legitimate skip"
+    },
+    "H5LM16": {
+        ".": "missing",
+        "1": "extremely satisfied",
+        "2": "satisfied",
+        "3": "neither satisfied nor dissatisfied",
+        "4": "dissatisfied",
+        "5": "extremely dissatisfied",
+        "97": "legitimate skip"
+    },
+    "H5LM17M": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5LM17Y": {
+        "99997": "legitimate skip",
+        "2016": "2016",
+        "2017": "2017",
+        "2015": "2015",
+        "2014": "2014",
+        "2013": "2013",
+        "2012": "2012",
+        "2010": "2010",
+        "2011": "2011",
+        "2009": "2009",
+        "2008": "2008",
+        "2006": "2006",
+        ".": "missing",
+        "2007": "2007",
+        "2005": "2005",
+        "2004": "2004",
+        "2003": "2003",
+        "2001": "2001",
+        "2000": "2000",
+        "2002": "2002",
+        "1999": "1999",
+        "1998": "1998",
+        "1997": "1997",
+        "1996": "1996"
+    },
+    "H5LM18M": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5LM18Y": {
+        "99997": "legitimate skip",
+        ".": "missing",
+        "2016": "2016",
+        "2015": "2015",
+        "2017": "2017",
+        "2014": "2014",
+        "2013": "2013",
+        "2012": "2012",
+        "2008": "2008",
+        "2011": "2011",
+        "2007": "2007",
+        "2009": "2009",
+        "2006": "2006",
+        "2010": "2010",
+        "2000": "2000",
+        "2005": "2005",
+        "2004": "2004",
+        "2003": "2003",
+        "2001": "2001",
+        "2002": "2002",
+        "1999": "1999",
+        "1997": "1997",
+        "1996": "1996",
+        "1998": "1998",
+        "1995": "1995",
+        "1994": "1994",
+        "1992": "1992"
+    },
+    "H5LM19": {
+        ".": "missing",
+        "1": "active duty military",
+        "2": "employee of private for-profit company or business or of an individual for wages, salary, or commissions",
+        "3": "employee of a private not-for-profit, tax-exempt, or charitable organization",
+        "4": "local government employee",
+        "5": "state government employee",
+        "6": "federal government employee",
+        "7": "self-employed in own not incorporated business, professional practice, or farm",
+        "8": "self-employed in own incorporated business, professional practice, or farm",
+        "9": "work without pay in family business or farm",
+        "97": "legitimate skip"
+    },
+    "H5LM20": {
+        "": "missing",
+        "99997": "legitimate skip"
+    },
+    "H5LM21": {
+        ".": "missing",
+        "1": "manufacturing",
+        "2": "wholesale trade",
+        "3": "retail trade",
+        "4": "other (agriculture, construction, service, government, etc.)",
+        "97": "legitimate skip"
+    },
+    "H5LM22": {
+        "": "missing",
+        "99997": "legitimate skip"
+    },
+    "H5LM23A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5LM23B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5LM23C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5LM24": {
+        ".": "missing",
+        "1": "seated, for example, using a computer or driving",
+        "2": "standing, doing light physical work, for example, standing at a counter or desk, teaching, or working at a conveyor belt",
+        "3": "standing, doing moderate physical work, for example, nursing or being a mechanic",
+        "4": "standing, doing hard physical work, for example, doing construction work",
+        "97": "legitimate skip"
+    },
+    "H5LM25": {
+        ".": "missing",
+        "1": "none or almost none of the time",
+        "2": "some of the time",
+        "3": "most of the time",
+        "4": "all or almost all of the time",
+        "97": "legitimate skip"
+    },
+    "H5LM26": {
+        ".": "missing",
+        "1": "extremely satisfied",
+        "2": "satisfied",
+        "3": "neither satisfied nor dissatisfied",
+        "4": "dissatisfied",
+        "5": "extremely dissatisfied",
+        "97": "legitimate skip"
+    },
+    "H5LM27": {
+        ".": "missing",
+        "1": "only temporarily laid off",
+        "2": "on sick leave or temporarily disabled",
+        "3": "on maternity/paternity leave",
+        "4": "permanently disabled",
+        "5": "unemployed and looking for work",
+        "6": "unemployed and not looking for work",
+        "7": "student",
+        "8": "keeping house",
+        "9": "retired",
+        "10": "other",
+        "997": "legitimate skip"
+    },
+    "H5EC1": {
+        ".": "missing",
+        "1": "less than $5,000",
+        "2": "$5,000 to $9,999",
+        "3": "$10,000 to $14,999",
+        "4": "$15,000 to $19,999",
+        "5": "$20,000 to $24,999",
+        "6": "$25,000 to $29,999",
+        "7": "$30,000 to $39,999",
+        "8": "$40,000 to $49,999",
+        "9": "$50,000 to $74,999",
+        "10": "$75,000 to $99,999",
+        "11": "$100,000 to $149,999",
+        "12": "$150,000 to $199,999",
+        "13": "$200,000 or more"
+    },
+    "H5EC2": {
+        ".": "missing",
+        "1": "less than $5,000",
+        "2": "$5,000 to $9,999",
+        "3": "$10,000 to $14,999",
+        "4": "$15,000 to $19,999",
+        "5": "$20,000 to $24,999",
+        "6": "$25,000 to $29,999",
+        "7": "$30,000 to $39,999",
+        "8": "$40,000 to $49,999",
+        "9": "$50,000 to $74,999",
+        "10": "$75,000 to $99,999",
+        "11": "$100,000 to $149,999",
+        "12": "$150,000 to $199,999",
+        "13": "$200,000 or more",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5EC3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EC4": {
+        ".": "missing",
+        "999999997": "legitimate skip"
+    },
+    "H5EC5A": {
+        ".": "missing",
+        "1": "none",
+        "2": "less than $10,000",
+        "3": "$10,000 to $24,999",
+        "4": "$25,000 to $49,999",
+        "5": "$50,000 to $99,999",
+        "6": "$100,000 to $249,999",
+        "7": "$250,000 to $499,999",
+        "8": "$500,000 to $999,999",
+        "9": "$1,000,000 or more"
+    },
+    "H5EC5B": {
+        ".": "missing",
+        "1": "none",
+        "2": "less than $10,000",
+        "3": "$10,000 to $24,999",
+        "4": "$25,000 to $49,999",
+        "5": "$50,000 to $99,999",
+        "6": "$100,000 to $249,999",
+        "7": "$250,000 to $499,999",
+        "8": "$500,000 to $999,999",
+        "9": "$1,000,000 or more"
+    },
+    "H5EC5C": {
+        ".": "missing",
+        "1": "none",
+        "2": "less than $10,000",
+        "3": "$10,000 to $24,999",
+        "4": "$25,000 to $49,999",
+        "5": "$50,000 to $99,999",
+        "6": "$100,000 to $249,999",
+        "7": "$250,000 to $499,999",
+        "8": "$500,000 to $999,999",
+        "9": "$1,000,000 or more"
+    },
+    "H5EC6": {
+        ".": "missing",
+        "1": "have something left over",
+        "2": "break even",
+        "3": "be in debt"
+    },
+    "H5EC7": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EC8": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EC9": {
+        ".": "missing",
+        "1": "step 1",
+        "2": "step 2",
+        "3": "step 3",
+        "4": "step 4",
+        "5": "step 5",
+        "6": "step 6",
+        "7": "step 7",
+        "8": "step 8",
+        "9": "step 9",
+        "10": "step 10"
+    },
+    "H5EC10": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID1": {
+        ".": "missing",
+        "1": "excellent",
+        "2": "very good",
+        "3": "good",
+        "4": "fair",
+        "5": "poor"
+    },
+    "H5ID2F": {
+        ".": "missing",
+        "3": "3 feet",
+        "4": "4 feet",
+        "5": "5 feet",
+        "6": "6 feet",
+        "7": "7 feet",
+        "98": "don't know"
+    },
+    "H5ID2I": {
+        ".": "missing",
+        "0": "0 inches",
+        "1": "1 inch",
+        "2": "2 inches",
+        "3": "3 inches",
+        "4": "4 inches",
+        "5": "5 inches",
+        "6": "6 inches",
+        "7": "7 inches",
+        "8": "8 inches",
+        "9": "9 inches",
+        "10": "10 inches",
+        "11": "11 inches",
+        "998": "don't know"
+    },
+    "H5ID3": {
+        ".": "missing"
+    },
+    "H5ID4": {
+        ".": "missing",
+        "1": "not limited",
+        "2": "limited a little",
+        "3": "limited a lot"
+    },
+    "H5ID5": {
+        ".": "missing",
+        "1": "lasted more than a year",
+        "2": "developed recently",
+        "97": "legitimate skip"
+    },
+    "H5ID6A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6AA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6AM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6BA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6BM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6CA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6CM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6DA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6DM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6E": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6EA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6EM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6F": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6FA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6FM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6G": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6GA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6GM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6H": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6HA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6HM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6I": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6IA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6IM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6J": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6JA": {
+        ".": "missing",
+        "1": "0 to 4 yrs old",
+        "2": "15 to 19 yrs old",
+        "3": "20 to 24 yrs old",
+        "4": "25 to 29 yrs old",
+        "5": "30 to 34 yrs old",
+        "6": "35 and older",
+        "97": "legitimate skip"
+    },
+    "H5ID6JM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6K": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6KA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6KM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6L": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6LA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6LM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6M": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6MA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6MM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6N": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6NA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6NM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6O": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6OA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6OM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6P": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6PA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6PM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6Q": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6QA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6QM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6R": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6RA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6RM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6S": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6SA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6SM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID6T": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID6TA": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5ID6TM": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID7A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID7B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID7C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID8A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID8B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID8C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID8D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID8E": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID8F": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID8G": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID8H": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID9": {
+        ".": "missing",
+        "1": "I get insurance through work",
+        "2": "I get insurance through a union",
+        "3": "I get insurance through school",
+        "4": "I am covered by my spouse's or partner's insurance",
+        "5": "I am covered by my parent's insurance",
+        "6": "I am covered because I am active duty military",
+        "7": "I buy private insurance myself",
+        "8": "Ibuy insurance through a Health Insurance Marketplace or Exchange (Affordable Care Act or Obamacare)",
+        "9": "I am on Medicaid",
+        "10": "I am on Medicare",
+        "11": "I get care through the Department of Veterans Affairs",
+        "12": "I am covered through TRI-CARE, CHAMPUS, CHAMP-VA, or any other military health care plan",
+        "13": "I am covered through the Indian Health Service",
+        "14": "I do not know what my health insurance is",
+        "15": "I have no health insurance"
+    },
+    "H5ID10A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID10B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID10C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID10D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5ID11": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID12": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID13": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID14": {
+        ".": "missing",
+        "1": "Hospital-based clinic",
+        "2": "Hospital emergency room",
+        "3": "Community health center or clinic, or county health department",
+        "4": "Health maintenance organization (HMO)",
+        "5": "Private doctor's office",
+        "6": "School or college clinic",
+        "7": "Military hospital or clinic",
+        "8": "Clinic at work",
+        "9": "Urgent care",
+        "10": "Some other place",
+        "11": "Never get sick or need health care"
+    },
+    "H5ID15": {
+        ".": "missing"
+    },
+    "H5ID16": {
+        ".": "missing",
+        "0": "never",
+        "1": "less than once a week",
+        "2": "1 or 2 times a week",
+        "3": "3 or 4 times a week",
+        "4": "5 or more times a week"
+    },
+    "H5ID17": {
+        ".": "missing",
+        "0": "never",
+        "1": "rarely (1-2 nights a week)",
+        "2": "sometimes (3-5 nights a week)",
+        "3": "always or almost always (6-7 nights a week)"
+    },
+    "H5ID18": {
+        ".": "missing",
+        "0": "never",
+        "1": "rarely (1-2 nights a week)",
+        "2": "sometimes (3-5 nights a week)",
+        "3": "always or almost always (6-7 nights a week)"
+    },
+    "H5ID19": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone"
+    },
+    "H5ID20": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "2": "I have some of my bottles or containers, but not all",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5ID21": {
+        ".": "missing"
+    },
+    "H5ID22": {
+        ".": "missing"
+    },
+    "H5ID23": {
+        ".": "missing"
+    },
+    "H5ID24": {
+        ".": "missing",
+        "0": "0 times",
+        "1": "1 time",
+        "2": "2 times",
+        "3": "3 times",
+        "4": "4 times",
+        "5": "5 times",
+        "6": "6 times",
+        "7": "7 or more times"
+    },
+    "H5ID25": {
+        ".": "missing",
+        "0": "0 times",
+        "1": "1 time",
+        "2": "2 times",
+        "3": "3 times",
+        "4": "4 times",
+        "5": "5 times",
+        "6": "6 times",
+        "7": "7 or more times"
+    },
+    "H5ID26": {
+        ".": "missing",
+        "0": "0 times",
+        "1": "1 time",
+        "2": "2 times",
+        "3": "3 times",
+        "4": "4 times",
+        "5": "5 times",
+        "6": "6 times",
+        "7": "7 or more times"
+    },
+    "H5ID27": {
+        ".": "missing",
+        "0": "0 times",
+        "1": "1 time",
+        "2": "2 times",
+        "3": "3 times",
+        "4": "4 times",
+        "5": "5 times",
+        "6": "6 times",
+        "7": "7 or more times"
+    },
+    "H5ID28": {
+        ".": "missing",
+        "0": "0 times",
+        "1": "1 time",
+        "2": "2 times",
+        "3": "3 times",
+        "4": "4 times",
+        "5": "5 times",
+        "6": "6 times",
+        "7": "7 or more times"
+    },
+    "H5ID29": {
+        ".": "missing",
+        "0": "0 times",
+        "1": "1 time",
+        "2": "2 times",
+        "3": "3 times",
+        "4": "4 times",
+        "5": "5 times",
+        "6": "6 times",
+        "7": "7 or more times"
+    },
+    "H5ID30": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5ID31": {
+        ".": "missing",
+        "1": "more active",
+        "2": "less active",
+        "97": "legitimate skip"
+    },
+    "H5SE1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5SE2": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5SE3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5SE4": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5SE5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5SE6": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5SE7": {
+        ".": "missing",
+        "9998": "don't know"
+    },
+    "H5SE8": {
+        ".": "missing",
+        "1": "0 partners",
+        "2": "1 to 4 partners",
+        "3": "5 to 10 partners",
+        "4": "11 to 20 partners",
+        "5": "21 to 30 partners",
+        "6": "more than 30 partners",
+        "97": "legitimate skip"
+    },
+    "H5SE9": {
+        ".": "missing",
+        "9997": "legitimate skip"
+    },
+    "H5SE10": {
+        ".": "missing",
+        "9998": "don't know"
+    },
+    "H5SE11": {
+        ".": "missing",
+        "1": "0 partners",
+        "2": "1 to 4 partners",
+        "3": "5 to 10 partners",
+        "4": "11 to 20 partners",
+        "5": "21 to 30 partners",
+        "6": "more than 30 partners",
+        "97": "legitimate skip"
+    },
+    "H5SE12": {
+        ".": "missing",
+        "9997": "legitimate skip"
+    },
+    "H5SE13": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5SE14": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5SE15": {
+        ".": "missing",
+        "1": "100% heterosexual (straight)",
+        "2": "mostly heterosexual (straight), but somewhat attracted to people of your own sex",
+        "3": "bisexual that is, attracted to men and women equally",
+        "4": "mostly homosexual (gay), but somewhat attracted to people of the opposite sex",
+        "5": "100% homosexual (gay)",
+        "6": "not sexually attracted to either males or females"
+    },
+    "H5SE16": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5SE17": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5SE18": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5SE19": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5SE20": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5SE21": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5SE22": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5SE23": {
+        ".": "missing",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5TO1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5TO2": {
+        ".": "missing"
+    },
+    "H5TO3": {
+        ".": "missing",
+        "9997": "legitimate skip"
+    },
+    "H5TO4": {
+        ".": "missing"
+    },
+    "H5TO5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5TO6": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5TO7": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5TO8": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5TO9": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5TO10": {
+        ".": "missing"
+    },
+    "H5TO11": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5TO12": {
+        ".": "missing",
+        "0": "none",
+        "1": "1 or 2 days in the past 12 months",
+        "2": "once a month or less (3 to 12 days in the past 12 months)",
+        "3": "2 or 3 days a month",
+        "4": "1 or 2 days a week",
+        "5": "3 to 5 days a week",
+        "6": "every day or almost every day",
+        "97": "legitimate skip"
+    },
+    "H5TO13": {
+        ".": "missing",
+        "0": "none",
+        "1": "one day",
+        "2": "2 or 3 days",
+        "3": "1 day a week",
+        "4": "2 days a week",
+        "5": "3 to 5 days a week",
+        "6": "every day or almost every day",
+        "97": "legitimate skip"
+    },
+    "H5TO14": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5TO15": {
+        ".": "missing",
+        "0": "none",
+        "1": "1 or 2 days in the past 12 months",
+        "2": "once a month or less (3 to 12 days in the past 12 months)",
+        "3": "2 or 3 days a month",
+        "4": "1 or 2 days a week",
+        "5": "3 to 5 days a week",
+        "6": "every day or almost every day",
+        "97": "legitimate skip"
+    },
+    "H5TO16": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5TO17": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5TO18": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5TO19": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5TO20": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5TO21": {
+        ".": "missing",
+        "0": "never",
+        "1": "one day",
+        "2": "2 or 3 days",
+        "3": "1 day a week",
+        "4": "2 days a week",
+        "5": "3 to 5 days a week",
+        "6": "every day or almost every day",
+        "97": "legitimate skip"
+    },
+    "H5TO22": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5TO23": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5TO24": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5TO25": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5TO26A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5TO26B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5TO26C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5TO26D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5TO27A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5TO27B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5TO27C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5TO27D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL1O": {
+        ".": "missing",
+        "998": "don't know"
+    },
+    "H5EL1P": {
+        ".": "missing",
+        "998": "don't know"
+    },
+    "H5EL2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5EL3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL5": {
+        ".": "missing",
+        "1": "excellent",
+        "2": "very good",
+        "3": "good",
+        "4": "fair",
+        "5": "poor"
+    },
+    "H5EL6A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6E": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6F": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6G": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6H": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6I": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6J": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6K": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6L": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6M": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6N": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6O": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6P": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL6Q": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL7": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5EL8": {
+        ".": "missing",
+        "1": "a lot better off",
+        "2": "somewhat better off",
+        "3": "same as average family",
+        "4": "somewhat worse off",
+        "5": "a lot worse off"
+    },
+    "H5PE1": {
+        ".": "missing",
+        "1": "strongly agree",
+        "2": "agree",
+        "3": "neither agree nor disagree",
+        "4": "disagree",
+        "5": "strongly disagree"
+    },
+    "H5PE2": {
+        ".": "missing",
+        "1": "strongly agree",
+        "2": "agree",
+        "3": "neither agree nor disagree",
+        "4": "disagree",
+        "5": "strongly disagree"
+    },
+    "H5PE3": {
+        ".": "missing",
+        "1": "strongly agree",
+        "2": "agree",
+        "3": "neither agree nor disagree",
+        "4": "disagree",
+        "5": "strongly disagree"
+    },
+    "H5PE4": {
+        ".": "missing",
+        "1": "strongly agree",
+        "2": "agree",
+        "3": "neither agree nor disagree",
+        "4": "disagree",
+        "5": "strongly disagree"
+    },
+    "H5PE5": {
+        ".": "missing",
+        "1": "strongly agree",
+        "2": "agree",
+        "3": "neither agree nor disagree",
+        "4": "disagree",
+        "5": "strongly disagree"
+    },
+    "H5PE6": {
+        ".": "missing",
+        "1": "strongly agree",
+        "2": "agree",
+        "3": "neither agree nor disagree",
+        "4": "disagree",
+        "5": "strongly disagree"
+    },
+    "H5PE7": {
+        ".": "missing",
+        "1": "strongly agree",
+        "2": "agree",
+        "3": "neither agree nor disagree",
+        "4": "disagree",
+        "5": "strongly disagree"
+    },
+    "H5PE8": {
+        ".": "missing",
+        "1": "strongly agree",
+        "2": "agree",
+        "3": "neither agree nor disagree",
+        "4": "disagree",
+        "5": "strongly disagree"
+    },
+    "H5PE9": {
+        ".": "missing",
+        "1": "strongly agree",
+        "2": "agree",
+        "3": "neither agree nor disagree",
+        "4": "disagree",
+        "5": "strongly disagree"
+    },
+    "H5SS0A": {
+        ".": "missing",
+        "1": "never or rarely",
+        "2": "sometimes",
+        "3": "a lot of the time",
+        "4": "most of the time or all of the time"
+    },
+    "H5SS0B": {
+        ".": "missing",
+        "1": "never or rarely",
+        "2": "sometimes",
+        "3": "a lot of the time",
+        "4": "most of the time or all of the time"
+    },
+    "H5SS0C": {
+        ".": "missing",
+        "1": "never or rarely",
+        "2": "sometimes",
+        "3": "a lot of the time",
+        "4": "most of the time or all of the time"
+    },
+    "H5SS0D": {
+        ".": "missing",
+        "1": "never or rarely",
+        "2": "sometimes",
+        "3": "a lot of the time",
+        "4": "most of the time or all of the time"
+    },
+    "H5SS0E": {
+        ".": "missing",
+        "1": "never or rarely",
+        "2": "sometimes",
+        "3": "a lot of the time",
+        "4": "most of the time or all of the time"
+    },
+    "H5SS1": {
+        ".": "missing",
+        "1": "never",
+        "2": "less than once a year",
+        "3": "about once or twice a year",
+        "4": "several times a year",
+        "5": "about once a month",
+        "6": "every week",
+        "7": "several times a week"
+    },
+    "H5SS2": {
+        ".": "missing",
+        "1": "hardly ever",
+        "2": "several times a year",
+        "3": "several times a month",
+        "4": "several times a week",
+        "5": "daily or almost every day"
+    },
+    "H5SS3A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "3": "not applicable"
+    },
+    "H5SS3B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "3": "not applicable"
+    },
+    "H5SS3C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "3": "not applicable"
+    },
+    "H5SS3D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "3": "not applicable"
+    },
+    "H5SS4A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "3": "not applicable"
+    },
+    "H5SS4B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "3": "not applicable"
+    },
+    "H5SS4C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "3": "not applicable"
+    },
+    "H5SS4D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "3": "not applicable"
+    },
+    "H5SS5A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "3": "not applicable"
+    },
+    "H5SS5B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "3": "not applicable"
+    },
+    "H5SS5C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "3": "not applicable"
+    },
+    "H5SS5D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "3": "not applicable"
+    },
+    "H5SS6": {
+        ".": "missing",
+        "1": "none",
+        "2": "1 or 2 friends",
+        "3": "3 to 5 friends",
+        "4": "6 to 9 friends",
+        "5": "10 or more friends"
+    },
+    "H5SS7": {
+        ".": "missing",
+        "1": "0 hours",
+        "2": "1 to 19 hours",
+        "3": "20 to 39 hours",
+        "4": "40 to 79 hours",
+        "5": "80 to 159 hours",
+        "6": "160 hours or more"
+    },
+    "H5SS8": {
+        ".": "missing",
+        "1": "never",
+        "2": "sometimes",
+        "3": "often",
+        "4": "always"
+    },
+    "H5SS9": {
+        ".": "missing",
+        "1": "very conservative",
+        "2": "conservative",
+        "3": "middle-of-the-road",
+        "4": "liberal",
+        "5": "very liberal"
+    },
+    "H5WP1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "98": "don't know"
+    },
+    "H5WP2": {
+        "997": "legitimate skip",
+        ".": "missing",
+        "990": "not yet born",
+        "8": "8 years old",
+        "10": "10 years old",
+        "0": "less than 1 year old",
+        "13": "13 years old",
+        "15": "15 years old",
+        "11": "11 years old",
+        "5": "5 years old",
+        "12": "12 years old",
+        "18": "18 years old",
+        "7": "7 years old",
+        "6": "6 years old",
+        "9": "9 years old",
+        "16": "16 years old",
+        "14": "14 years old",
+        "25": "25 years old",
+        "1": "1 year old",
+        "28": "28 years old",
+        "30": "30 years old",
+        "17": "17 years old",
+        "4": "4 years old",
+        "22": "22 years old",
+        "35": "35 years old",
+        "2": "2 years old",
+        "19": "19 years old",
+        "3": "3 years old",
+        "21": "21 years old",
+        "24": "24 years old",
+        "27": "27 years old",
+        "23": "23 years old",
+        "31": "31 years old",
+        "32": "32 years old",
+        "33": "33 years old",
+        "34": "34 years old",
+        "37": "37 years old",
+        "26": "26 years old",
+        "29": "29 years old",
+        "38": "38 years old",
+        "39": "39 years old",
+        "40": "40 years old",
+        "41": "41 years old"
+    },
+    "H5WP3": {
+        "997": "legitimate skip",
+        ".": "missing",
+        "990": "not yet born",
+        "10": "10 years old",
+        "18": "18 years old",
+        "8": "8 years old",
+        "12": "12 years old",
+        "15": "15 years old",
+        "13": "13 years old",
+        "16": "16 years old",
+        "14": "14 years old",
+        "25": "25 years old",
+        "30": "30 years old",
+        "17": "17 years old",
+        "0": "less than 1 year old",
+        "9": "9 years old",
+        "11": "11 years old",
+        "19": "19 years old",
+        "24": "24 years old",
+        "26": "26 years old",
+        "5": "5 years old",
+        "6": "6 years old",
+        "7": "7 years old",
+        "21": "21 years old",
+        "28": "28 years old",
+        "34": "34 years old",
+        "35": "35 years old",
+        "3": "3 years old",
+        "23": "23 years old",
+        "27": "27 years old",
+        "32": "32 years old",
+        "991": "parent currently in jail or prison",
+        "1": "1 year old",
+        "2": "2 years old",
+        "29": "29 years old",
+        "37": "37 years  old",
+        "31": "31 years old",
+        "33": "33 years old",
+        "38": "38 years old",
+        "39": "39 years old",
+        "40": "40 years old",
+        "41": "41 years old"
+    },
+    "H5WP4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "98": "don't know"
+    },
+    "H5WP5M": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5WP5Y": {
+        "99997": "legitimate skip",
+        ".": "missing",
+        "2014": "2014",
+        "2016": "2016",
+        "2015": "2015",
+        "2013": "2013",
+        "99998": "don't know",
+        "2017": "2017",
+        "2012": "2012",
+        "2011": "2011",
+        "2009": "2009",
+        "2010": "2010",
+        "2008": "2008",
+        "2001": "2001",
+        "2004": "2004",
+        "2005": "2005",
+        "2007": "2007",
+        "2006": "2006",
+        "2002": "2002",
+        "2003": "2003",
+        "2000": "2000",
+        "1998": "1998",
+        "1999": "1999",
+        "1995": "1995",
+        "1996": "1996",
+        "1997": "1997",
+        "1985": "1985",
+        "1993": "1993",
+        "1986": "1986",
+        "1990": "1990",
+        "1982": "1982",
+        "1988": "1988",
+        "1994": "1994",
+        "1983": "1983",
+        "1980": "1980",
+        "1991": "1991",
+        "1992": "1992",
+        "1984": "1984",
+        "1989": "1989",
+        "2018": "2018",
+        "1981": "1981",
+        "1987": "1987",
+        "1977": "1977",
+        "1978": "1978",
+        "1979": "1979"
+    },
+    "H5WP6": {
+        ".": "missing",
+        "1": "biological mother",
+        "2": "some other woman",
+        "3": "was not raised by a mother figure"
+    },
+    "H5WP7": {
+        ".": "missing",
+        "1": "adoptive mother",
+        "2": "step-mother who adopted you",
+        "3": "step-mother",
+        "4": "foster mother",
+        "5": "grandmother",
+        "6": "aunt",
+        "7": "sister",
+        "8": "other female relative",
+        "9": "other female nonrelative",
+        "97": "legitimate skip"
+    },
+    "H5WP8": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5WP9": {
+        ".": "missing",
+        "10": "10 years old",
+        "12": "12 years old",
+        "13": "13 years old",
+        "14": "14 years old",
+        "15": "15 years old",
+        "16": "16 years old",
+        "20": "20 years old",
+        "25": "25 years old",
+        "26": "26 years old",
+        "990": "not yet born",
+        "997": "legitimate skip"
+    },
+    "H5WP10": {
+        ".": "missing",
+        "10": "10 years old",
+        "13": "13 years old",
+        "15": "15 years old",
+        "16": "16 years old",
+        "17": "17 years old",
+        "20": "20 years old",
+        "26": "26 years old",
+        "27": "27 years old",
+        "990": "not yet born",
+        "997": "legitimate skip"
+    },
+    "H5WP11": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5WP12M": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5WP12Y": {
+        "99997": "legitimate skip",
+        ".": "missing",
+        "99998": "don't know",
+        "2015": "2015",
+        "2016": "2016",
+        "2011": "2011",
+        "2012": "2012",
+        "2014": "2014",
+        "1998": "1998",
+        "2013": "2013",
+        "2017": "2017",
+        "2004": "2004",
+        "2009": "2009",
+        "2003": "2003",
+        "2007": "2007",
+        "2008": "2008",
+        "1999": "1999",
+        "2006": "2006",
+        "1994": "1994",
+        "2000": "2000",
+        "2005": "2005",
+        "2001": "2001",
+        "2010": "2010",
+        "1996": "1996",
+        "2002": "2002",
+        "1993": "1993",
+        "1995": "1995",
+        "2018": "2018",
+        "1997": "1997",
+        "1987": "1987",
+        "1989": "1989",
+        "1988": "1988",
+        "1990": "1990",
+        "1991": "1991",
+        "1992": "1992"
+    },
+    "H5WP13": {
+        ".": "missing",
+        "1": "never",
+        "2": "once a year or less",
+        "3": "a few times a year",
+        "4": "once or twice a month",
+        "5": "once or twice a week",
+        "6": "almost every day",
+        "97": "legitimate skip"
+    },
+    "H5WP14": {
+        ".": "missing",
+        "1": "not at all close",
+        "2": "not very close",
+        "3": "somewhat close",
+        "4": "quite close",
+        "5": "very close",
+        "97": "legitimate skip"
+    },
+    "H5WP15": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "98": "don't know"
+    },
+    "H5WP16": {
+        "997": "legitimate skip",
+        ".": "missing",
+        "990": "not yet born",
+        "0": "less than 1 year old",
+        "5": "5 years old",
+        "10": "10 years old",
+        "2": "2 years old",
+        "3": "3 years old",
+        "8": "8 years old",
+        "1": "1 year old",
+        "12": "12 years old",
+        "7": "7 years old",
+        "6": "6 years old",
+        "13": "13 years old",
+        "15": "15 years old",
+        "16": "16 years old",
+        "17": "17 years old",
+        "4": "4 years old",
+        "9": "9 years old",
+        "14": "14 years old",
+        "11": "11 years old",
+        "20": "20 years old",
+        "30": "30 years old",
+        "18": "18 years old",
+        "23": "23 years old",
+        "25": "25 years old",
+        "21": "21 years old",
+        "22": "22 years old",
+        "34": "34 years old",
+        "19": "19 years old",
+        "24": "24 years old",
+        "27": "27 years old",
+        "26": "26 years old",
+        "35": "35 years old",
+        "28": "28 years old",
+        "36": "36 years old",
+        "38": "38 years old",
+        "29": "29 years old",
+        "33": "33 years old",
+        "31": "31 years old",
+        "32": "32 years old",
+        "37": "37 years old",
+        "40": "40 years old"
+    },
+    "H5WP17": {
+        "997": "legitimate skip",
+        ".": "missing",
+        "990": "not yet born",
+        "10": "10 years old",
+        "5": "5 years old",
+        "0": "less than 1 year old",
+        "12": "12 years old",
+        "16": "16 years old",
+        "17": "17 years old",
+        "15": "15 years old",
+        "8": "8 years old",
+        "991": "parent currently in jail or prison",
+        "3": "3 years old",
+        "30": "30 years old",
+        "18": "18 years old",
+        "13": "13 years old",
+        "14": "14 years old",
+        "7": "7 years old",
+        "11": "11 years old",
+        "6": "6 years old",
+        "4": "4 years old",
+        "20": "20 years old",
+        "25": "25 years old",
+        "9": "9 years old",
+        "2": "2 years old",
+        "35": "35 years old",
+        "1": "1 year old",
+        "19": "19 years old",
+        "22": "22 years old",
+        "26": "26 years old",
+        "34": "34 years old",
+        "21": "21 years old",
+        "27": "27 years old",
+        "24": "24 years old",
+        "28": "28 years old",
+        "23": "23 years old",
+        "33": "33 years old",
+        "31": "31 years old",
+        "32": "32 years old",
+        "36": "36 years old",
+        "29": "29 years old",
+        "37": "37 years old",
+        "38": "38 years old",
+        "39": "39 years old",
+        "40": "40 years old",
+        "41": "41 years old"
+    },
+    "H5WP18": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "98": "don't know"
+    },
+    "H5WP19M": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5WP19Y": {
+        "99997": "legitimate skip",
+        "99998": "don't know",
+        ".": "missing",
+        "2012": "2012",
+        "2015": "2015",
+        "2016": "2016",
+        "2014": "2014",
+        "2013": "2013",
+        "2011": "2011",
+        "2009": "2009",
+        "2017": "2017",
+        "2006": "2006",
+        "2010": "2010",
+        "2008": "2008",
+        "2007": "2007",
+        "2004": "2004",
+        "2005": "2005",
+        "2001": "2001",
+        "2003": "2003",
+        "2000": "2000",
+        "1991": "1991",
+        "1996": "1996",
+        "1999": "1999",
+        "1995": "1995",
+        "2002": "2002",
+        "1997": "1997",
+        "1998": "1998",
+        "1992": "1992",
+        "1989": "1989",
+        "1994": "1994",
+        "1990": "1990",
+        "1986": "1986",
+        "1993": "1993",
+        "2018": "2018",
+        "1988": "1988",
+        "1983": "1983",
+        "1982": "1982",
+        "1987": "1987",
+        "1984": "1984",
+        "1980": "1980",
+        "1981": "1981",
+        "1985": "1985",
+        "1979": "1979",
+        "1978": "1978",
+        "1976": "1976",
+        "1977": "1977"
+    },
+    "H5WP20": {
+        ".": "missing",
+        "1": "biological father",
+        "2": "some other man",
+        "3": "was not raised by a father figure"
+    },
+    "H5WP21": {
+        ".": "missing",
+        "1": "adoptive father",
+        "2": "step-father who adopted you",
+        "3": "step-father",
+        "4": "foster father",
+        "5": "grandfather",
+        "6": "uncle",
+        "7": "brother",
+        "8": "other male relative",
+        "9": "other male nonrelative",
+        "97": "legitimate skip"
+    },
+    "H5WP22": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5WP23": {
+        "997": "legitimate skip",
+        ".": "missing",
+        "990": "not yet born",
+        "10": "10 years old",
+        "8": "8 years old",
+        "12": "12 years old",
+        "0": "less than 1 year old",
+        "18": "18 years old",
+        "13": "13 years old",
+        "15": "15 years old",
+        "6": "6 years old",
+        "16": "16 years old",
+        "5": "5 years old",
+        "11": "11 years old",
+        "14": "14 years old",
+        "30": "30 years old",
+        "2": "2 years old",
+        "4": "4 years old",
+        "7": "7 years old",
+        "25": "25 years old",
+        "1": "1 year old",
+        "3": "3 years old",
+        "9": "9 years old",
+        "17": "17 years old",
+        "22": "22 years old",
+        "23": "23 years old",
+        "35": "35 years old",
+        "38": "38 years old",
+        "19": "19 years old",
+        "21": "21 years old",
+        "24": "24 years old",
+        "29": "29 years old",
+        "32": "32 years old",
+        "36": "36 years old"
+    },
+    "H5WP24": {
+        "997": "legitimate skip",
+        ".": "missing",
+        "990": "not yet born",
+        "12": "12 years old",
+        "8": "8 years old",
+        "15": "15 years old",
+        "10": "10 years old",
+        "14": "14 years old",
+        "13": "13 years old",
+        "30": "30 years old",
+        "0": "less than 1 year old",
+        "2": "2 years old",
+        "19": "19 years old",
+        "23": "23 years old",
+        "991": "parent currently in jail or prison",
+        "5": "5 years old",
+        "6": "6 years old",
+        "11": "11 years old",
+        "17": "17 years old",
+        "35": "35 years old",
+        "4": "4 years old",
+        "9": "9 years old",
+        "16": "16 years old",
+        "22": "22 years old",
+        "33": "33 years old",
+        "7": "7 years old",
+        "18": "18 years old",
+        "24": "24 years old",
+        "25": "25 years old",
+        "26": "26 years old",
+        "34": "34 years old",
+        "36": "36 years old",
+        "38": "38 years old",
+        "1": "1 year old",
+        "3": "3 years old",
+        "21": "21 years old",
+        "37": "37 years old"
+    },
+    "H5WP25": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5WP26M": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5WP26Y": {
+        "99997": "legitimate skip",
+        ".": "missing",
+        "99998": "don't know",
+        "2014": "2014",
+        "2015": "2015",
+        "2010": "2010",
+        "2016": "2016",
+        "2003": "2003",
+        "2013": "2013",
+        "1999": "1999",
+        "2004": "2004",
+        "2008": "2008",
+        "2011": "2011",
+        "2017": "2017",
+        "2000": "2000",
+        "2009": "2009",
+        "2012": "2012",
+        "1996": "1996",
+        "2006": "2006",
+        "2005": "2005",
+        "1997": "1997",
+        "2007": "2007",
+        "2001": "2001",
+        "1998": "1998",
+        "1994": "1994",
+        "1995": "1995",
+        "2002": "2002",
+        "1991": "1991",
+        "1993": "1993",
+        "1992": "1992",
+        "1989": "1989",
+        "2018": "2018",
+        "1990": "1990",
+        "1985": "1985",
+        "1988": "1988",
+        "1987": "1987",
+        "1984": "1984",
+        "1986": "1986"
+    },
+    "H5WP27": {
+        ".": "missing",
+        "1": "never",
+        "2": "once a year or less",
+        "3": "a few times a year",
+        "4": "once or twice a month",
+        "5": "once or twice a week",
+        "6": "almost every day",
+        "97": "legitimate skip"
+    },
+    "H5WP28": {
+        ".": "missing",
+        "1": "not at all close",
+        "2": "not very close",
+        "3": "somewhat close",
+        "4": "quite close",
+        "5": "very close",
+        "97": "legitimate skip"
+    },
+    "H5WP29": {
+        ".": "missing",
+        "1": "never",
+        "2": "1 or 2 times",
+        "3": "3 or 4 times",
+        "4": "5 or more times"
+    },
+    "H5WP30": {
+        ".": "missing",
+        "1": "never",
+        "2": "1 or 2 times",
+        "3": "3 or 4 times",
+        "4": "5 or more times"
+    },
+    "H5WP31": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "98": "don't know"
+    },
+    "H5WP32": {
+        "1": "1 sibling",
+        "2": "2 siblings",
+        "3": "3 siblings",
+        "4": "4 siblings",
+        "997": "legitimate skip",
+        "5": "5 siblings",
+        "6": "6 siblings",
+        ".": "missing",
+        "7": "7 siblings",
+        "8": "8 siblings",
+        "9": "9 siblings",
+        "10": "10 siblings",
+        "11": "11 siblings",
+        "12": "12 siblings",
+        "13": "13 siblings",
+        "15": "15 siblings",
+        "14": "14 siblings",
+        "16": "16 siblings",
+        "17": "17 siblings",
+        "0": "no siblings",
+        "19": "19 siblings",
+        "30": "30 siblings",
+        "18": "18 siblings",
+        "20": "20 siblings",
+        "21": "21 siblings",
+        "25": "25 siblings",
+        "27": "27 siblings"
+    },
+    "H5WP33": {
+        ".": "missing",
+        "0": "0 siblings",
+        "1": "1 sibling",
+        "2": "2 siblings",
+        "3": "3 siblings",
+        "4": "4 siblings",
+        "5": "5 siblings",
+        "6": "6 siblings",
+        "7": "7 siblings",
+        "9": "9 siblings",
+        "10": "10 siblings",
+        "11": "11 siblings",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5WP34": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5RE1": {
+        ".": "missing",
+        "1": "none/atheist/agnostic",
+        "2": "Protestant (such as Assembly of God, Baptist, Lutheran, Methodist, Presbyterian, etc.)",
+        "3": "Catholic",
+        "4": "other Christian",
+        "5": "Jewish",
+        "6": "Buddhist",
+        "7": "Hindu",
+        "8": "Muslim",
+        "9": "other"
+    },
+    "H5RE2": {
+        ".": "missing",
+        "1": "never",
+        "2": "a few times",
+        "3": "once a month",
+        "4": "2 or 3 times a month",
+        "5": "once a week",
+        "6": "more than once a week"
+    },
+    "H5RE3": {
+        ".": "missing",
+        "1": "not important",
+        "2": "somewhat important",
+        "3": "very important",
+        "4": "more important than anything else"
+    },
+    "H5RE4": {
+        ".": "missing",
+        "1": "never",
+        "2": "less than once a month",
+        "3": "once a month",
+        "4": "a few times a month",
+        "5": "once a week",
+        "6": "a few times a week",
+        "7": "once a day",
+        "8": "more than once a day"
+    },
+    "H5MN1": {
+        ".": "missing",
+        "1": "never",
+        "2": "almost never",
+        "3": "sometimes",
+        "4": "fairly often",
+        "5": "very often"
+    },
+    "H5MN2": {
+        ".": "missing",
+        "1": "never",
+        "2": "almost never",
+        "3": "sometimes",
+        "4": "fairly often",
+        "5": "very often"
+    },
+    "H5MN3": {
+        ".": "missing",
+        "1": "never",
+        "2": "almost never",
+        "3": "sometimes",
+        "4": "fairly often",
+        "5": "very often"
+    },
+    "H5MN4": {
+        ".": "missing",
+        "1": "never",
+        "2": "almost never",
+        "3": "sometimes",
+        "4": "fairly often",
+        "5": "very often"
+    },
+    "H5MN5A": {
+        ".": "missing",
+        "1": "never",
+        "2": "rarely",
+        "3": "sometimes",
+        "4": "often"
+    },
+    "H5MN5B": {
+        ".": "missing",
+        "1": "never",
+        "2": "rarely",
+        "3": "sometimes",
+        "4": "often"
+    },
+    "H5MN5C": {
+        ".": "missing",
+        "1": "never",
+        "2": "rarely",
+        "3": "sometimes",
+        "4": "often"
+    },
+    "H5MN5D": {
+        ".": "missing",
+        "1": "never",
+        "2": "rarely",
+        "3": "sometimes",
+        "4": "often"
+    },
+    "H5MN5E": {
+        ".": "missing",
+        "1": "never",
+        "2": "rarely",
+        "3": "sometimes",
+        "4": "often"
+    },
+    "H5MN6A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN6B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN6C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN6D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN6E": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN6F": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN6G": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN6H": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN6I": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN6J": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN6K": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN6L": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN6M": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN6N": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN6O": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN7": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5MN8": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5MN9": {
+        ".": "missing",
+        "1": "none",
+        "2": "once",
+        "3": "twice",
+        "4": "three or four times",
+        "5": "five or more times"
+    },
+    "H5MN10": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5MN11": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5MN12": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5CJ1A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5CJ1B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5CJ1C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5CJ1D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5CJ1E": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5CJ1F": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5CJ2A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5CJ2B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5CJ2C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5CJ2D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5CJ2E": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5CJ2F": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5CJ3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5CJ4A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5CJ4AC": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4AG": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5CJ4BC": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5CJ4BG": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5CJ4C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5CJ4CC": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4CG": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5CJ4DC": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4DG": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4E": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5CJ4EC": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4EG": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4F": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5CJ4FC": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4FG": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4G": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5CJ4GC": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4GG": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4H": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5CJ4HC": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4HG": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4I": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5CJ4IC": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4IG": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4J": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5CJ4JC": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4JG": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4K": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5CJ4KC": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4KG": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5CJ4L": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5CJ4LC": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5CJ4LG": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5CJ5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5CJ6": {
+        ".": "missing",
+        "1": "once",
+        "2": "more than once",
+        "97": "legitimate skip"
+    },
+    "H5CJ7": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5CJ8Y": {
+        ".": "missing",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5CJ8M": {
+        ".": "missing",
+        "0": "less than 1 month",
+        "1": "1 month",
+        "2": "2 months",
+        "3": "3 months",
+        "4": "4 months",
+        "5": "5 months",
+        "6": "6 months",
+        "7": "7 months",
+        "8": "8 months",
+        "9": "9 months",
+        "10": "10 months",
+        "11": "11 months",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5TR1": {
+        ".": "missing"
+    },
+    "H5TR2": {
+        ".": "missing"
+    },
+    "H5TR3": {
+        ".": "missing"
+    },
+    "H5TR4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5TR4M": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5TR4Y": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5TR5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5TR5M": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5TR5Y": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5TR6": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5TR6M": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5TR6Y": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5TR7": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5TR7M": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5TR7Y": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5TR8M": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5TR8Y": {
+        "99997": "legitimate skip",
+        ".": "missing",
+        "2016": "2016",
+        "2017": "2017",
+        "2015": "2015",
+        "2014": "2014",
+        "2013": "2013",
+        "2012": "2012",
+        "2018": "2018",
+        "2011": "2011",
+        "2010": "2010",
+        "2008": "2008",
+        "2009": "2009",
+        "2000": "2000",
+        "2005": "2005",
+        "2006": "2006",
+        "2003": "2003",
+        "2007": "2007",
+        "2004": "2004",
+        "2001": "2001",
+        "2002": "2002",
+        "1996": "1996",
+        "1999": "1999",
+        "1997": "1997",
+        "1998": "1998",
+        "1992": "1992"
+    },
+    "H5TR9": {
+        ".": "missing",
+        "1": "married",
+        "2": "living together",
+        "3": "dating and/or having sex",
+        "97": "legitimate skip"
+    },
+    "H5TR10": {
+        ".": "missing",
+        "1": "divorce",
+        "2": "annulment",
+        "3": "spouse or partner died",
+        "4": "you moved out",
+        "5": "your spouse or partner moved out",
+        "6": "grew apart and  broke up",
+        "7": "poor ending (eg, drug, abuse, jail)",
+        "8": "cheated",
+        "9": "distance",
+        "10": "separated",
+        "11": "other",
+        "997": "legitimate skip"
+    },
+    "H5TR11": {
+        ".": "missing",
+        "1": "male",
+        "2": "female",
+        "92": "missing/suppressed",
+        "97": "legitimate skip"
+    },
+    "H5TR12": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5TR13A": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13B": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13C": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13D": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13E": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13F": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13G": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13H1": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13H2": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13H3": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13H4": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13P1": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13P2": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13P3": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13P4": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13S1": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13S2": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13S3": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13S4": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13S5": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13S6": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR13S7": {
+        ".": "missing",
+        "0": "not marked",
+        "1": "marked",
+        "97": "legitimate skip"
+    },
+    "H5TR14": {
+        ".": "missing",
+        "1": "strongly agree",
+        "2": "agree",
+        "3": "neither agree nor disagree",
+        "4": "disagree",
+        "5": "strongly disagree",
+        "97": "legitimate skip"
+    },
+    "H5TR15": {
+        ".": "missing",
+        "1": "very happy",
+        "2": "fairly happy",
+        "3": "not too happy",
+        "97": "legitimate skip"
+    },
+    "H5TR16": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5TR17": {
+        ".": "missing",
+        "1": "none of the time",
+        "2": "some of the time",
+        "3": "about half of the time",
+        "4": "most of the time",
+        "5": "all of the time",
+        "97": "legitimate skip"
+    },
+    "H5TR18": {
+        ".": "missing",
+        "1": "I do not want to have a baby in the future",
+        "2": "I am not sure if I want to have a baby in the future",
+        "3": "I do not want to have a baby now, but would like to in the future with my current partner",
+        "4": "I do not want to have a baby with my current partner, but might want one in a future relationship or without a partner",
+        "5": "I am actively trying to get pregnant or get my current partner pregnant",
+        "6": "I am pregnant or my current partner is pregnant",
+        "97": "legitimate skip"
+    },
+    "H5TR19": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5TR20": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5TR21": {
+        ".": "missing",
+        "1": "never",
+        "2": "this did not happen in the last year, but it did happen before then",
+        "3": "once",
+        "4": "twice",
+        "5": "3 to 5 times",
+        "6": "6 to 10 times",
+        "7": "11 to 20 times",
+        "8": "more than 20 times",
+        "97": "legitimate skip"
+    },
+    "H5TR22": {
+        ".": "missing",
+        "1": "never",
+        "2": "this did not happen in the last year, but it did happen before then",
+        "3": "once",
+        "4": "twice",
+        "5": "3 to 5 times",
+        "6": "6 to 10 times",
+        "7": "11 to 20 times",
+        "8": "more than 20 times",
+        "97": "legitimate skip"
+    },
+    "H5TR23": {
+        ".": "missing",
+        "1": "never",
+        "2": "this did not happen in the last year, but it did happen before then",
+        "3": "once",
+        "4": "twice",
+        "5": "3 to 5 times",
+        "6": "6 to 10 times",
+        "7": "11 to 20 times",
+        "8": "more than 20 times",
+        "97": "legitimate skip"
+    },
+    "H5TR24": {
+        ".": "missing",
+        "1": "never",
+        "2": "this did not happen in the last year, but it did happen before then",
+        "3": "once",
+        "4": "twice",
+        "5": "3 to 5 times",
+        "6": "6 to 10 times",
+        "7": "11 to 20 times",
+        "8": "more than 20 times",
+        "97": "legitimate skip"
+    },
+    "H5TR25": {
+        ".": "missing",
+        "1": "never",
+        "2": "this did not happen in the last year, but it did happen before then",
+        "3": "once",
+        "4": "twice",
+        "5": "3 to 5 times",
+        "6": "6 to 10 times",
+        "7": "11 to 20 times",
+        "8": "more than 20 times",
+        "97": "legitimate skip"
+    },
+    "H5TR26": {
+        ".": "missing",
+        "1": "never",
+        "2": "this did not happen in the last year, but it did happen before then",
+        "3": "once",
+        "4": "twice",
+        "5": "3 to 5 times",
+        "6": "6 to 10 times",
+        "7": "11 to 20 times",
+        "8": "more than 20 times",
+        "97": "legitimate skip"
+    },
+    "H5TR27": {
+        ".": "missing",
+        "1": "never",
+        "2": "this did not happen in the last year, but it did happen before then",
+        "3": "once",
+        "4": "twice",
+        "5": "3 to 5 times",
+        "6": "6 to 10 times",
+        "7": "11 to 20 times",
+        "8": "more than 20 times",
+        "97": "legitimate skip"
+    },
+    "H5TR28": {
+        ".": "missing",
+        "1": "never",
+        "2": "this did not happen in the last year, but it did happen before then",
+        "3": "once",
+        "4": "twice",
+        "5": "3 to 5 times",
+        "6": "6 to 10 times",
+        "7": "11 to 20 times",
+        "8": "more than 20 times",
+        "97": "legitimate skip"
+    },
+    "H5PG1": {
+        ".": "missing",
+        "1": "yes",
+        "2": "no",
+        "3": "never tried to get pregnant"
+    },
+    "H5PG2": {
+        ".": "missing",
+        "1": "I have been pregnant with my biological child",
+        "2": "a partner has been pregnant with my biological child",
+        "3": "neither a partner nor I have been pregnant with my biological child"
+    },
+    "H5PG3A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG3B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG3C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG3D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG3E": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG4": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5PG5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5PG6M": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5PG6Y": {
+        ".": "missing",
+        "2016": "2016",
+        "2017": "2017",
+        "2018": "2018",
+        "2019": "2019",
+        "99997": "legitimate skip"
+    },
+    "H5PG7": {
+        ".": "missing",
+        "995": "question not asked",
+        "997": "legitimate skip"
+    },
+    "H5PG81": {
+        ".": "missing",
+        "1": "single birth",
+        "2": "twins",
+        "3": "triplets or more",
+        "97": "legitimate skip"
+    },
+    "H5PG91": {
+        ".": "missing",
+        "1": "Cesarean section",
+        "2": "vaginal delivery",
+        "97": "legitimate skip"
+    },
+    "H5PG10M1": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5PG10Y1": {
+        "99997": "legitimate skip",
+        ".": "missing",
+        "1999": "1999",
+        "2001": "2001",
+        "2008": "2008",
+        "2006": "2006",
+        "2005": "2005",
+        "2004": "2004",
+        "2000": "2000",
+        "1998": "1998",
+        "2007": "2007",
+        "2009": "2009",
+        "2003": "2003",
+        "2002": "2002",
+        "2010": "2010",
+        "2011": "2011",
+        "2012": "2012",
+        "1997": "1997",
+        "2013": "2013",
+        "1996": "1996",
+        "2014": "2014",
+        "2015": "2015",
+        "1995": "1995",
+        "2016": "2016",
+        "1994": "1994",
+        "2017": "2017",
+        "1993": "1993",
+        "2018": "2018",
+        "1992": "1992",
+        "1990": "1990",
+        "1991": "1991",
+        "1981": "1981"
+    },
+    "H5PG111": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG121": {
+        ".": "missing",
+        "1": "boy",
+        "2": "girl",
+        "97": "legitimate skip"
+    },
+    "H5PG13L1": {
+        ".": "missing",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5PG13O1": {
+        ".": "missing",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5PG141": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG151": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5PG161": {
+        ".": "missing",
+        "1": "yes",
+        "2": "no",
+        "3": "baby was not in a hospital",
+        "97": "legitimate skip"
+    },
+    "H5PG171": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG181": {
+        ".": "missing",
+        "1": "baby was put up for adoption",
+        "2": "baby died before he/she went home",
+        "3": "baby went to live with other parent",
+        "4": "baby went to live with another relative",
+        "5": "baby is still in the hospital",
+        "97": "legitimate skip"
+    },
+    "H5PG191": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG201": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG211": {
+        ".": "missing",
+        "1": "we were married",
+        "2": "we were not married, but living together",
+        "3": "we were not living together, but romantically involved",
+        "4": "we were involved in an on-again, off-again relationship",
+        "5": "we were just friends",
+        "6": "we hardly ever saw or talked to each other",
+        "7": "we did not see or talk to each other",
+        "97": "legitimate skip"
+    },
+    "H5PG221": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG231": {
+        ".": "missing",
+        "1": "none",
+        "2": "a few cigarettes, but not every week",
+        "3": "a few cigarettes a week, but not every day",
+        "4": "10 or fewer a day",
+        "5": "11 to 20 a day",
+        "6": "21 to 30 a day",
+        "7": "31 or more a day",
+        "97": "legitimate skip"
+    },
+    "H5PG241": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG251": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5PG261": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5PG27M1": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5PG27Y1": {
+        "99997": "legitimate skip",
+        ".": "missing",
+        "2007": "2007",
+        "2010": "2010",
+        "2004": "2004",
+        "2000": "2000",
+        "2005": "2005",
+        "1999": "1999",
+        "2016": "2016",
+        "2001": "2001",
+        "2003": "2003",
+        "2009": "2009",
+        "2011": "2011",
+        "1995": "1995",
+        "1996": "1996",
+        "2006": "2006",
+        "2008": "2008",
+        "2012": "2012",
+        "2013": "2013",
+        "1994": "1994",
+        "1998": "1998",
+        "2002": "2002",
+        "2015": "2015",
+        "2017": "2017",
+        "2018": "2018"
+    },
+    "H5PG281": {
+        ".": "missing",
+        "1": "excellent",
+        "2": "very good",
+        "3": "good",
+        "4": "fair",
+        "5": "poor",
+        "97": "legitimate skip"
+    },
+    "H5PG29A1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29B1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29C1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29D1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29E1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29F1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29G1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29H1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29I1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29J1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29K1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29L1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29M1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29N1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29O1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29P1": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29Q1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29R1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29S1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29T1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29U1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG82": {
+        ".": "missing",
+        "1": "single birth",
+        "2": "twins",
+        "3": "triplets or more",
+        "97": "legitimate skip"
+    },
+    "H5PG92": {
+        ".": "missing",
+        "1": "Cesarean section",
+        "2": "vaginal delivery",
+        "97": "legitimate skip"
+    },
+    "H5PG10M2": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5PG10Y2": {
+        "99997": "legitimate skip",
+        ".": "missing",
+        "2006": "2006",
+        "2008": "2008",
+        "2009": "2009",
+        "2011": "2011",
+        "2010": "2010",
+        "2007": "2007",
+        "2005": "2005",
+        "2012": "2012",
+        "2014": "2014",
+        "2013": "2013",
+        "2003": "2003",
+        "2004": "2004",
+        "2015": "2015",
+        "2001": "2001",
+        "2002": "2002",
+        "2000": "2000",
+        "2016": "2016",
+        "1999": "1999",
+        "1998": "1998",
+        "2017": "2017",
+        "1997": "1997",
+        "1996": "1996",
+        "1995": "1995",
+        "2018": "2018",
+        "1994": "1994",
+        "1993": "1993"
+    },
+    "H5PG112": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG122": {
+        ".": "missing",
+        "1": "boy",
+        "2": "girl",
+        "97": "legitimate skip"
+    },
+    "H5PG13L2": {
+        ".": "missing",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5PG13O2": {
+        ".": "missing",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5PG142": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG152": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5PG162": {
+        ".": "missing",
+        "1": "yes",
+        "2": "no",
+        "3": "baby was not in a hospital",
+        "97": "legitimate skip"
+    },
+    "H5PG172": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG182": {
+        ".": "missing",
+        "1": "baby was put up for adoption",
+        "2": "baby died before he/she went home",
+        "3": "baby went to live with other parent",
+        "4": "baby went to live with another relative",
+        "5": "baby is still in the hospital",
+        "97": "legitimate skip"
+    },
+    "H5PG192": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG202": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG212": {
+        ".": "missing",
+        "1": "we were married",
+        "2": "we were not married, but living together",
+        "3": "we were not living together, but romantically involved",
+        "4": "we were involved in an on-again, off-again relationship",
+        "5": "we were just friends",
+        "6": "we hardly ever saw or talked to each other",
+        "7": "we did not see or talk to each other",
+        "97": "legitimate skip"
+    },
+    "H5PG222": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG232": {
+        ".": "missing",
+        "1": "none",
+        "2": "a few cigarettes, but not every week",
+        "3": "a few cigarettes a week, but not every day",
+        "4": "10 or fewer a day",
+        "5": "11 to 20 a day",
+        "6": "21 to 30 a day",
+        "7": "31 or more a day",
+        "97": "legitimate skip"
+    },
+    "H5PG242": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG252": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5PG262": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5PG27M2": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5PG27Y2": {
+        "99997": "legitimate skip",
+        ".": "missing",
+        "2001": "2001",
+        "2007": "2007",
+        "2010": "2010",
+        "2016": "2016",
+        "2003": "2003",
+        "2004": "2004",
+        "2005": "2005",
+        "2011": "2011",
+        "2014": "2014",
+        "2002": "2002",
+        "1997": "1997",
+        "1998": "1998",
+        "1999": "1999",
+        "2000": "2000",
+        "2006": "2006",
+        "2009": "2009",
+        "2013": "2013",
+        "2015": "2015",
+        "2017": "2017"
+    },
+    "H5PG282": {
+        ".": "missing",
+        "1": "excellent",
+        "2": "very good",
+        "3": "good",
+        "4": "fair",
+        "5": "poor",
+        "97": "legitimate skip"
+    },
+    "H5PG29A2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29B2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29C2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29D2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29E2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29F2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29G2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29H2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29I2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29J2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29K2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29L2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29M2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29N2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29O2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29P2": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29Q2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29R2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29S2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29T2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29U2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG83": {
+        ".": "missing",
+        "1": "single birth",
+        "2": "twins",
+        "3": "triplets or more",
+        "97": "legitimate skip"
+    },
+    "H5PG93": {
+        ".": "missing",
+        "1": "Cesarean section",
+        "2": "vaginal delivery",
+        "97": "legitimate skip"
+    },
+    "H5PG10M3": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5PG10Y3": {
+        "99997": "legitimate skip",
+        ".": "missing",
+        "2012": "2012",
+        "2009": "2009",
+        "2013": "2013",
+        "2007": "2007",
+        "2008": "2008",
+        "2010": "2010",
+        "2015": "2015",
+        "2006": "2006",
+        "2011": "2011",
+        "2014": "2014",
+        "2005": "2005",
+        "2004": "2004",
+        "2016": "2016",
+        "2003": "2003",
+        "2002": "2002",
+        "2001": "2001",
+        "2017": "2017",
+        "2000": "2000",
+        "1999": "1999",
+        "1997": "1997",
+        "1998": "1998",
+        "2018": "2018",
+        "1994": "1994",
+        "1995": "1995",
+        "1996": "1996"
+    },
+    "H5PG113": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG123": {
+        ".": "missing",
+        "1": "boy",
+        "2": "girl",
+        "97": "legitimate skip"
+    },
+    "H5PG13L3": {
+        ".": "missing",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5PG13O3": {
+        ".": "missing",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5PG143": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG153": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5PG163": {
+        ".": "missing",
+        "1": "yes",
+        "2": "no",
+        "3": "baby was not in a hospital",
+        "97": "legitimate skip"
+    },
+    "H5PG173": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG183": {
+        ".": "missing",
+        "1": "baby was put up for adoption",
+        "2": "baby died before he/she went home",
+        "3": "baby went to live with other parent",
+        "4": "baby went to live with another relative",
+        "5": "baby is still in the hospital",
+        "97": "legitimate skip"
+    },
+    "H5PG193": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG203": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG213": {
+        ".": "missing",
+        "1": "we were married",
+        "2": "we were not married, but living together",
+        "3": "we were not living together, but romantically involved",
+        "4": "we were involved in an on-again, off-again relationship",
+        "5": "we were just friends",
+        "6": "we hardly ever saw or talked to each other",
+        "7": "we did not see or talk to each other",
+        "97": "legitimate skip"
+    },
+    "H5PG223": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG233": {
+        ".": "missing",
+        "1": "none",
+        "2": "a few cigarettes, but not every week",
+        "3": "a few cigarettes a week, but not every day",
+        "4": "10 or fewer a day",
+        "5": "11 to 20 a day",
+        "6": "21 to 30 a day",
+        "7": "31 or more a day",
+        "97": "legitimate skip"
+    },
+    "H5PG243": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG253": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5PG263": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5PG27M3": {
+        ".": "missing",
+        "1": "January",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5PG27Y3": {
+        ".": "missing",
+        "2000": "2000",
+        "2001": "2001",
+        "2002": "2002",
+        "2004": "2004",
+        "2006": "2006",
+        "2007": "2007",
+        "2008": "2008",
+        "2012": "2012",
+        "2013": "2013",
+        "2014": "2014",
+        "2015": "2015",
+        "2017": "2017",
+        "99997": "legitimate skip"
+    },
+    "H5PG283": {
+        ".": "missing",
+        "1": "excellent",
+        "2": "very good",
+        "3": "good",
+        "4": "fair",
+        "5": "poor",
+        "97": "legitimate skip"
+    },
+    "H5PG29A3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29B3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29C3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29D3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29E3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29F3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29G3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29H3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29I3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29J3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29K3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29L3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29M3": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29N3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29O3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29P3": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29Q3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29R3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29S3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29T3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29U3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG84": {
+        ".": "missing",
+        "1": "single birth",
+        "2": "twins",
+        "3": "triplets or more",
+        "97": "legitimate skip"
+    },
+    "H5PG94": {
+        ".": "missing",
+        "1": "Cesarean section",
+        "2": "vaginal delivery",
+        "97": "legitimate skip"
+    },
+    "H5PG10M4": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5PG10Y4": {
+        "99997": "legitimate skip",
+        ".": "missing",
+        "2013": "2013",
+        "2011": "2011",
+        "2010": "2010",
+        "2009": "2009",
+        "2015": "2015",
+        "2012": "2012",
+        "2014": "2014",
+        "2007": "2007",
+        "2008": "2008",
+        "2005": "2005",
+        "2016": "2016",
+        "2017": "2017",
+        "2004": "2004",
+        "2006": "2006",
+        "2002": "2002",
+        "2003": "2003",
+        "2001": "2001",
+        "2018": "2018",
+        "1998": "1998",
+        "2000": "2000",
+        "1999": "1999",
+        "1994": "1994",
+        "1995": "1995",
+        "1996": "1996",
+        "1997": "1997"
+    },
+    "H5PG114": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG124": {
+        ".": "missing",
+        "1": "boy",
+        "2": "girl",
+        "97": "legitimate skip"
+    },
+    "H5PG13L4": {
+        ".": "missing",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5PG13O4": {
+        ".": "missing",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5PG144": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG154": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5PG164": {
+        ".": "missing",
+        "1": "yes",
+        "2": "no",
+        "3": "baby was not in a hospital",
+        "97": "legitimate skip"
+    },
+    "H5PG174": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG184": {
+        ".": "missing",
+        "1": "baby was put up for adoption",
+        "2": "baby died before he/she went home",
+        "3": "baby went to live with other parent",
+        "4": "baby went to live with another relative",
+        "5": "baby is still in the hospital",
+        "97": "legitimate skip"
+    },
+    "H5PG194": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG204": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG214": {
+        ".": "missing",
+        "1": "we were married",
+        "2": "we were not married, but living together",
+        "3": "we were not living together, but romantically involved",
+        "4": "we were involved in an on-again, off-again relationship",
+        "5": "we were just friends",
+        "6": "we hardly ever saw or talked to each other",
+        "7": "we did not see or talk to each other",
+        "97": "legitimate skip"
+    },
+    "H5PG224": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG234": {
+        ".": "missing",
+        "1": "none",
+        "2": "a few cigarettes, but not every week",
+        "3": "a few cigarettes a week, but not every day",
+        "4": "10 or fewer a day",
+        "5": "11 to 20 a day",
+        "6": "21 to 30 a day",
+        "7": "31 or more a day",
+        "97": "legitimate skip"
+    },
+    "H5PG244": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG254": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5PG264": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5PG27M4": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "6": "June",
+        "7": "July",
+        "9": "September",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5PG27Y4": {
+        ".": "missing",
+        "1992": "1992",
+        "1999": "1999",
+        "2004": "2004",
+        "2009": "2009",
+        "2010": "2010",
+        "2013": "2013",
+        "2014": "2014",
+        "2017": "2017",
+        "2018": "2018",
+        "99997": "legitimate skip"
+    },
+    "H5PG284": {
+        ".": "missing",
+        "1": "excellent",
+        "2": "very good",
+        "3": "good",
+        "4": "fair",
+        "5": "poor",
+        "97": "legitimate skip"
+    },
+    "H5PG29A4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29B4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29C4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29D4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29E4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29F4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29G4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29H4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29I4": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29J4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29K4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29L4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29M4": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29N4": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29O4": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29P4": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29Q4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29R4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29S4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29T4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29U4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG85": {
+        ".": "missing",
+        "1": "single birth",
+        "2": "twins",
+        "97": "legitimate skip"
+    },
+    "H5PG95": {
+        ".": "missing",
+        "1": "Cesarean section",
+        "2": "vaginal delivery",
+        "97": "legitimate skip"
+    },
+    "H5PG10M5": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5PG10Y5": {
+        "99997": "legitimate skip",
+        ".": "missing",
+        "2016": "2016",
+        "2015": "2015",
+        "2010": "2010",
+        "2014": "2014",
+        "2013": "2013",
+        "2011": "2011",
+        "2012": "2012",
+        "2005": "2005",
+        "2017": "2017",
+        "2006": "2006",
+        "2007": "2007",
+        "2008": "2008",
+        "2009": "2009",
+        "2004": "2004",
+        "2002": "2002",
+        "2018": "2018",
+        "1997": "1997",
+        "2003": "2003",
+        "1999": "1999",
+        "2000": "2000",
+        "2001": "2001"
+    },
+    "H5PG115": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG125": {
+        ".": "missing",
+        "1": "boy",
+        "2": "girl",
+        "97": "legitimate skip"
+    },
+    "H5PG13L5": {
+        ".": "missing",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5PG13O5": {
+        ".": "missing",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5PG145": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG155": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5PG165": {
+        ".": "missing",
+        "1": "yes",
+        "2": "no",
+        "3": "baby was not in a hospital",
+        "97": "legitimate skip"
+    },
+    "H5PG175": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG185": {
+        ".": "missing",
+        "1": "baby was put up for adoption",
+        "2": "baby died before he/she went home",
+        "3": "baby went to live with other parent",
+        "5": "baby is still in the hospital",
+        "97": "legitimate skip"
+    },
+    "H5PG195": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG205": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG215": {
+        ".": "missing",
+        "1": "we were married",
+        "2": "we were not married, but living together",
+        "3": "we were not living together, but romantically involved",
+        "4": "we were involved in an on-again, off-again relationship",
+        "5": "we were just friends",
+        "7": "we did not see or talk to each other",
+        "97": "legitimate skip"
+    },
+    "H5PG225": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG235": {
+        ".": "missing",
+        "1": "none",
+        "2": "a few cigarettes, but not every week",
+        "3": "a few cigarettes a week, but not every day",
+        "4": "10 or fewer a day",
+        "5": "11 to 20 a day",
+        "6": "21 to 30 a day",
+        "7": "31 or more a day",
+        "97": "legitimate skip"
+    },
+    "H5PG245": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG255": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5PG265": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5PG27M5": {
+        ".": "missing",
+        "3": "March",
+        "5": "May",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5PG27Y5": {
+        ".": "missing",
+        "2000": "2000",
+        "2005": "2005",
+        "2010": "2010",
+        "2011": "2011",
+        "99997": "legitimate skip"
+    },
+    "H5PG285": {
+        ".": "missing",
+        "1": "excellent",
+        "2": "very good",
+        "3": "good",
+        "4": "fair",
+        "97": "legitimate skip"
+    },
+    "H5PG29A5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29B5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29C5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29D5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29E5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29F5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29G5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29H5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29I5": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29J5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29K5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29L5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29M5": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29N5": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29O5": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29P5": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29Q5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29R5": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29S5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29T5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29U5": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG86": {
+        ".": "missing",
+        "1": "single birth",
+        "2": "twins",
+        "97": "legitimate skip"
+    },
+    "H5PG96": {
+        ".": "missing",
+        "1": "Cesarean section",
+        "2": "vaginal delivery",
+        "97": "legitimate skip"
+    },
+    "H5PG10M6": {
+        ".": "missing",
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "997": "legitimate skip"
+    },
+    "H5PG10Y6": {
+        "99997": "legitimate skip",
+        ".": "missing",
+        "2012": "2012",
+        "2010": "2010",
+        "2013": "2013",
+        "2006": "2006",
+        "2015": "2015",
+        "2003": "2003",
+        "2007": "2007",
+        "2011": "2011",
+        "2014": "2014",
+        "2008": "2008",
+        "2017": "2017",
+        "2000": "2000",
+        "1991": "1991",
+        "1997": "1997",
+        "2002": "2002",
+        "2004": "2004",
+        "2009": "2009",
+        "2016": "2016",
+        "2018": "2018"
+    },
+    "H5PG116": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG126": {
+        ".": "missing",
+        "1": "boy",
+        "2": "girl",
+        "97": "legitimate skip"
+    },
+    "H5PG13L6": {
+        ".": "missing",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5PG13O6": {
+        ".": "missing",
+        "997": "legitimate skip",
+        "998": "don't know"
+    },
+    "H5PG146": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG156": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "Don't know"
+    },
+    "H5PG166": {
+        ".": "missing",
+        "1": "yes",
+        "2": "no",
+        "3": "baby was not in a hospital",
+        "97": "legitimate skip"
+    },
+    "H5PG176": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG186": {
+        ".": "missing",
+        "3": "baby went to live with other parent",
+        "5": "baby is still in the hospital",
+        "97": "legitimate skip"
+    },
+    "H5PG196": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG206": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG216": {
+        ".": "missing",
+        "1": "we were married",
+        "2": "we were not married, but living together",
+        "3": "we were not living together, but romantically involved",
+        "4": "we were involved in an on-again, off-again relationship",
+        "5": "we were just friends",
+        "6": "we hardly ever saw or talked to each other",
+        "7": "we did not see or talk to each other",
+        "97": "legitimate skip"
+    },
+    "H5PG226": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG236": {
+        ".": "missing",
+        "1": "none",
+        "2": "a few cigarettes, but not every week",
+        "3": "a few cigarettes a week, but not every day",
+        "4": "10 or fewer a day",
+        "5": "11 to 20 a day",
+        "7": "31 or more a day",
+        "97": "legitimate skip"
+    },
+    "H5PG246": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG256": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5PG266": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip",
+        "98": "don't know"
+    },
+    "H5PG27M6": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5PG27Y6": {
+        ".": "missing",
+        "99997": "legitimate skip"
+    },
+    "H5PG286": {
+        ".": "missing",
+        "1": "excellent",
+        "2": "very good",
+        "3": "good",
+        "97": "legitimate skip"
+    },
+    "H5PG29A6": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29B6": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29C6": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29D6": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29E6": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29F6": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29G6": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29H6": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29I6": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29J6": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29K6": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29L6": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29M6": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29N6": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29O6": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29P6": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29Q6": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29R6": {
+        ".": "missing",
+        "0": "no",
+        "97": "legitimate skip"
+    },
+    "H5PG29S6": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29T6": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG29U6": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "97": "legitimate skip"
+    },
+    "H5PG30": {
+        ".": "missing",
+        "997": "legitimate skip"
+    },
+    "H5PG31": {
+        ".": "missing",
+        "97": "legitimate skip"
+    },
+    "H5PG32": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone (e.g., not asked in Teleform, only asked in Pilot, 2a, 3)",
+        "97": "legitimate skip"
+    },
+    "H5PG33": {
+        ".": "missing",
+        "1": "English",
+        "2": "Spanish",
+        "3": "Chinese",
+        "5": "Another Asian language",
+        "6": "Some other language not listed above",
+        "7": "A combination of English and another language",
+        "8": "Not Applicable",
+        "97": "legitimate skip"
+    },
+    "H5PG34A": {
+        ".": "missing",
+        "1": "Strongly agree",
+        "2": "Agree",
+        "3": "Neither agree nor disagree",
+        "4": "Disagree",
+        "5": "Strongly disagree",
+        "6": "Not applicable",
+        "97": "legitimate skip"
+    },
+    "H5PG34B": {
+        ".": "missing",
+        "1": "Strongly agree",
+        "2": "Agree",
+        "3": "Neither agree nor disagree",
+        "4": "Disagree",
+        "5": "Strongly disagree",
+        "6": "Not applicable",
+        "97": "legitimate skip"
+    },
+    "H5PG34C": {
+        ".": "missing",
+        "1": "Strongly agree",
+        "2": "Agree",
+        "3": "Neither agree nor disagree",
+        "4": "Disagree",
+        "5": "Strongly disagree",
+        "6": "Not applicable",
+        "97": "legitimate skip"
+    },
+    "H5PG34D": {
+        ".": "missing",
+        "1": "Strongly agree",
+        "2": "Agree",
+        "3": "Neither agree nor disagree",
+        "4": "Disagree",
+        "5": "Strongly disagree",
+        "6": "Not applicable",
+        "97": "legitimate skip"
+    },
+    "H5DA1": {
+        ".": "missing",
+        "0": "never",
+        "1": "1 time",
+        "2": "2 times",
+        "3": "3-4 times",
+        "4": "5-9 times",
+        "5": "10-14 times",
+        "6": "15 or more times"
+    },
+    "H5DA2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA3A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA3B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA3C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA3D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA3E": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA3F": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA3G": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA3H": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA4": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA5A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA5B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA5C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA5D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA5E": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA5F": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA5G": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA6": {
+        ".": "missing",
+        "1": "spinning, vertigo or motion sensation",
+        "2": "floating, spacey or disconnected feeling",
+        "3": "feeling of lightheadedness",
+        "4": "feeling you are about to pass out",
+        "5": "blurred vision",
+        "6": "unsteadiness",
+        "7": "other dizziness or balance problem",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5DA7": {
+        ".": "missing",
+        "1": "rarely, once or twice past 12 months",
+        "2": "occasionally, 3 to 4 times past 12 months",
+        "3": "sometimes, 5 to 9 times past 12 months",
+        "4": "often, 1 to 2 times a month",
+        "5": "frequently, 1 to 2 times a week",
+        "6": "very frequently, 3 to 4 times a week",
+        "7": "extremely frequently, 5 or more times a week",
+        "8": "constantly or always present",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5DA8": {
+        ".": "missing",
+        "1": "less than 2 minutes",
+        "2": "2 minutes to less than 20 minutes",
+        "3": "20 minutes to less than 8 hours",
+        "4": "8 hours to less than 24 hours",
+        "5": "1 day to less than 14 days",
+        "6": "2 weeks to less than 3 months",
+        "7": "3 months or longer",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5DA9": {
+        ".": "missing",
+        "1": "excellent",
+        "2": "good",
+        "3": "a little trouble",
+        "4": "moderate hearing trouble",
+        "5": "a lot of trouble",
+        "6": "deaf"
+    },
+    "H5DA10": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes"
+    },
+    "H5DA11": {
+        ".": "missing",
+        "1": "no problem",
+        "2": "a small problem",
+        "3": "a moderate problem",
+        "4": "a big problem",
+        "5": "a very big problem",
+        "97": "legitimate skip"
+    },
+    "H5DA12": {
+        ".": "missing",
+        "1": "eyeglasses",
+        "2": "contact lenses",
+        "3": "both",
+        "4": "neither"
+    },
+    "H5DA13": {
+        ".": "missing",
+        "1": "excellent",
+        "2": "good",
+        "3": "fair",
+        "4": "poor",
+        "5": "very poor",
+        "97": "legitimate skip"
+    },
+    "H5FT1": {
+        ".": "missing",
+        "0": "no, do not have a smartphone",
+        "1": "yes, have a smartphone",
+        "95": "question not asked"
+    },
+    "H5FT2": {
+        ".": "missing",
+        "1": "iPhone",
+        "2": "Android phone",
+        "3": "Windows phone",
+        "4": "something else",
+        "95": "not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT3": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT4A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT4B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT4C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT4D": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT4E": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT4F": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT4G": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT4H": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT4I": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT4J": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT4K": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT4L": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT5A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked"
+    },
+    "H5FT5B": {
+        ".": "missing",
+        "1": "less than 1 month ago",
+        "2": "at least 1 month ago, but less than 6 months ago",
+        "3": "at least 6 months ago, but less than 1 year ago",
+        "4": "at least 1 year ago"
+    },
+    "H5FT5C": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT5D": {
+        ".": "missing",
+        "1": "less than 6 months ago",
+        "2": "at least 6 months ago, but less than 1 year ago",
+        "3": "at least 1 year ago"
+    },
+    "H5FT5E": {
+        ".": "missing",
+        "1": "all the time",
+        "2": "most of the time",
+        "3": "some of the time",
+        "4": "only during exercise",
+        "5": "hardly ever",
+        "95": "not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT6": {
+        ".": "missing",
+        "1": "Fitbit",
+        "2": "Jawbone",
+        "3": "Nike Fuelband",
+        "4": "Android Smartwatch",
+        "5": "Apple Watch",
+        "6": "Xiaomi",
+        "7": "Garmin",
+        "8": "Lifesense",
+        "9": "other (specify)"
+    },
+    "H5FT7": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "question not asked",
+        "97": "legitimate skip"
+    },
+    "H5FT8": {
+        ".": "missing",
+        "1": "refuse/not comfortable/no reason given",
+        "2": "too personal/private/invasive/intrusive",
+        "3": "techinical difficulties/device/data unavailable/lost/broken",
+        "4": "data limitations/stopped using",
+        "5": "data security",
+        "6": "hassle/trouble",
+        "7": "survey answers sufficient/survey too long/device data unnecessary",
+        "8": "no personal benefit/incentive",
+        "9": "no explanation of data use/do not understand",
+        "10": "physical inactivity",
+        "995": "question not asked",
+        "997": "legitimate skip"
+    },
+    "H5MH1": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone"
+    },
+    "C5WD90_1": {
+        ".": "missing",
+        "0": "0 words",
+        "1": "1 word",
+        "2": "2 words",
+        "3": "3 words",
+        "4": "4 words",
+        "5": "5 words",
+        "6": "6 words",
+        "7": "7 words",
+        "8": "8 words",
+        "9": "9 words",
+        "10": "10 words",
+        "11": "11 words",
+        "12": "12 words",
+        "13": "13 words",
+        "14": "14 words",
+        "15": "15 words",
+        "995": "not asked of everyone",
+        "996": "refused",
+        "999": "no word list recall form for respondent"
+    },
+    "C5WD90_2": {
+        ".": "missing",
+        "0": "0 words",
+        "1": "1 word",
+        "2": "2 words",
+        "3": "3 words",
+        "4": "4 words",
+        "5": "5 words",
+        "6": "6 words",
+        "9": "9 words",
+        "95": "not asked of everyone",
+        "96": "refused",
+        "99": "no Word List Recall Form for respondent"
+    },
+    "C5WD90_3": {
+        ".": "missing",
+        "0": "0 words",
+        "1": "1 word",
+        "2": "2 words",
+        "3": "3 words",
+        "4": "4 words",
+        "5": "5 words",
+        "6": "6 words",
+        "7": "7 words",
+        "8": "8 words",
+        "9": "9 words",
+        "12": "12 words",
+        "995": "not asked of everyone",
+        "996": "refused",
+        "999": "no word list recall form for respondent"
+    },
+    "H5MH2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone"
+    },
+    "C5WD60_1": {
+        ".": "missing",
+        "0": "0 words",
+        "1": "1 word",
+        "2": "2 words",
+        "3": "3 words",
+        "4": "4 words",
+        "5": "5 words",
+        "6": "6 words",
+        "7": "7 words",
+        "8": "8 words",
+        "9": "9 words",
+        "10": "10 words",
+        "11": "11 words",
+        "12": "12 words",
+        "14": "14 words",
+        "995": "not asked of everyone",
+        "996": "refused",
+        "999": "no word list recall form for respondent"
+    },
+    "C5WD60_2": {
+        ".": "missing",
+        "0": "0 words",
+        "1": "1 word",
+        "2": "2 words",
+        "3": "3 words",
+        "4": "4 words",
+        "5": "5 words",
+        "6": "6 words",
+        "7": "7 words",
+        "8": "8 words",
+        "9": "9 words",
+        "95": "not asked of everyone",
+        "96": "refused",
+        "99": "no Word List Recall Form for respondent"
+    },
+    "C5WD60_3": {
+        ".": "missing",
+        "0": "0 words",
+        "1": "1 word",
+        "2": "2 words",
+        "3": "3 words",
+        "4": "4 words",
+        "5": "5 words",
+        "6": "6 words",
+        "7": "7 words",
+        "8": "8 words",
+        "9": "9 words",
+        "95": "not asked of everyone",
+        "96": "refused",
+        "99": "no Word List Recall Form for respondent"
+    },
+    "H5MH3A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone"
+    },
+    "H5MH3B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5MH4A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5MH4B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5MH5A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5MH5B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5MH6A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5MH6B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5MH7A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5MH7B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5MH8A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5MH8B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5MH9A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5MH9B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "C5NUMSCR": {
+        ".": "missing",
+        "0": "0",
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "95": "not asked of everyone"
+    },
+    "H5BC1": {
+        ".": "missing",
+        "0": "does not consent to home visit and blood collection",
+        "1": "consents to home visit and blood collection with archiving",
+        "2": "consents to home visit and blood collection without archiving"
+    },
+    "H5BC2": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes, will reconsider",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5BC3": {
+        ".": "missing",
+        "0": "does not consent to home visit and blood collection",
+        "1": "consents to home visit and blood collection with archiving",
+        "2": "consents to home visit and blood collection without archiving",
+        "95": "not asked of everyone",
+        "97": "legitimate skip"
+    },
+    "H5PS1A": {
+        ".": "missing",
+        "1": "too long",
+        "2": "just right",
+        "3": "too short",
+        "95": "not asked of everyone"
+    },
+    "H5PS1B": {
+        ".": "missing",
+        "1": "too long",
+        "2": "just right",
+        "3": "too short",
+        "95": "not asked of everyone"
+    },
+    "H5PS2A": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone"
+    },
+    "H5PS2B": {
+        ".": "missing",
+        "0": "no",
+        "1": "yes",
+        "95": "not asked of everyone"
+    },
+    "H5PS3A": {
+        ".": "missing",
+        "1": "My phone is more convenient than laptop, desktop, tablet, or other device",
+        "2": "I do not have access to laptop, desktop, tablet, or other device",
+        "3": "I only have internet access on phone",
+        "4": "Other",
+        "5": "I did not take the survey on my phone",
+        "95": "not asked of everyone"
+    },
+    "H5PS3B": {
+        ".": "missing",
+        "1": "My phone is more convenient than laptop, desktop, tablet, or other device",
+        "2": "I do not have access to laptop, desktop, tablet, or other device",
+        "3": "I only have internet access on phone",
+        "4": "Technical Difficulties",
+        "5": "Temporarily lacked access to computer",
+        "6": "Used multiple devices",
+        "7": "Other",
+        "8": "I did not take the survey on my phone",
+        "95": "not asked of everyone"
+    },
+    "H5PS4B": {
+        ".": "missing",
+        "0": "no (prefer longer)",
+        "1": "yes (prefer shorter)",
+        "95": "not asked of everyone"
+    }
+}
